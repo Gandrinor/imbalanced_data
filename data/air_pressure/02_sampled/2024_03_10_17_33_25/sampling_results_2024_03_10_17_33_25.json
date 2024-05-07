@@ -1,0 +1,655 @@
+ es{
+    "values": {
+        "None": {
+            "fold-0": {
+                "pos_count": 1100,
+                "neg_count": 59700,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 54.27272727272727
+            },
+            "fold-1": {
+                "pos_count": 1100,
+                "neg_count": 59700,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 54.27272727272727
+            },
+            "fold-2": {
+                "pos_count": 1100,
+                "neg_count": 59700,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 54.27272727272727
+            },
+            "fold-3": {
+                "pos_count": 1100,
+                "neg_count": 59700,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 54.27272727272727
+            },
+            "fold-4": {
+                "pos_count": 1100,
+                "neg_count": 59700,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 54.27272727272727
+            }
+        },
+        "RandomUnder": {
+            "fold-0": {
+                "pos_count": 1100,
+                "neg_count": 1100,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-1": {
+                "pos_count": 1100,
+                "neg_count": 1100,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-2": {
+                "pos_count": 1100,
+                "neg_count": 1100,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-3": {
+                "pos_count": 1100,
+                "neg_count": 1100,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-4": {
+                "pos_count": 1100,
+                "neg_count": 1100,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            }
+        },
+        "ENN": {
+            "fold-0": {
+                "pos_count": 1100,
+                "neg_count": 59078,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 53.70727272727273
+            },
+            "fold-1": {
+                "pos_count": 1100,
+                "neg_count": 59064,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 53.694545454545455
+            },
+            "fold-2": {
+                "pos_count": 1100,
+                "neg_count": 59052,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 53.68363636363637
+            },
+            "fold-3": {
+                "pos_count": 1100,
+                "neg_count": 59087,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 53.71545454545455
+            },
+            "fold-4": {
+                "pos_count": 1100,
+                "neg_count": 59033,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 53.666363636363634
+            }
+        },
+        "NCR": {
+            "fold-0": {
+                "pos_count": 1100,
+                "neg_count": 58790,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 53.445454545454545
+            },
+            "fold-1": {
+                "pos_count": 1100,
+                "neg_count": 58898,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 53.54363636363637
+            },
+            "fold-2": {
+                "pos_count": 1100,
+                "neg_count": 58797,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 53.45181818181818
+            },
+            "fold-3": {
+                "pos_count": 1100,
+                "neg_count": 58846,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 53.49636363636364
+            },
+            "fold-4": {
+                "pos_count": 1100,
+                "neg_count": 58807,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 53.46090909090909
+            }
+        },
+        "TomekLinks": {
+            "fold-0": {
+                "pos_count": 1100,
+                "neg_count": 59628,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 54.20727272727273
+            },
+            "fold-1": {
+                "pos_count": 1100,
+                "neg_count": 59642,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 54.22
+            },
+            "fold-2": {
+                "pos_count": 1100,
+                "neg_count": 59623,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 54.20272727272727
+            },
+            "fold-3": {
+                "pos_count": 1100,
+                "neg_count": 59632,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 54.21090909090909
+            },
+            "fold-4": {
+                "pos_count": 1100,
+                "neg_count": 59614,
+                "pos_percentage": "0.02",
+                "neg_percentage": "0.98",
+                "neg_pos_ratio": 54.194545454545455
+            }
+        },
+        "RandomOver": {
+            "fold-0": {
+                "pos_count": 59700,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-1": {
+                "pos_count": 59700,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-2": {
+                "pos_count": 59700,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-3": {
+                "pos_count": 59700,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-4": {
+                "pos_count": 59700,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            }
+        },
+        "SMOTE": {
+            "fold-0": {
+                "pos_count": 59700,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-1": {
+                "pos_count": 59700,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-2": {
+                "pos_count": 59700,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-3": {
+                "pos_count": 59700,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-4": {
+                "pos_count": 59700,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            }
+        },
+        "ADASYS": {
+            "fold-0": {
+                "pos_count": 59940,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 0.995995995995996
+            },
+            "fold-1": {
+                "pos_count": 59609,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0015266151084568
+            },
+            "fold-2": {
+                "pos_count": 59534,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.002788322639164
+            },
+            "fold-3": {
+                "pos_count": 59813,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 0.9981107785932823
+            },
+            "fold-4": {
+                "pos_count": 59690,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0001675322499581
+            }
+        },
+        "KMeansSMOTE": {
+            "fold-0": {
+                "pos_count": 59700,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-1": {
+                "pos_count": 59701,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 0.9999832498618113
+            },
+            "fold-2": {
+                "pos_count": 59700,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-3": {
+                "pos_count": 59700,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            },
+            "fold-4": {
+                "pos_count": 59700,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0
+            }
+        },
+        "SMOTE-TOMEK": {
+            "fold-0": {
+                "pos_count": 59699,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0000167506993416
+            },
+            "fold-1": {
+                "pos_count": 59689,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0001842885623817
+            },
+            "fold-2": {
+                "pos_count": 59689,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0001842885623817
+            },
+            "fold-3": {
+                "pos_count": 59697,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0000502537815972
+            },
+            "fold-4": {
+                "pos_count": 59697,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0000502537815972
+            }
+        },
+        "SMOTE-ENN": {
+            "fold-0": {
+                "pos_count": 59612,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0014762128430517
+            },
+            "fold-1": {
+                "pos_count": 59605,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0015938260213069
+            },
+            "fold-2": {
+                "pos_count": 59601,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0016610459556048
+            },
+            "fold-3": {
+                "pos_count": 59652,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0008046670690003
+            },
+            "fold-4": {
+                "pos_count": 59652,
+                "neg_count": 59700,
+                "pos_percentage": "0.50",
+                "neg_percentage": "0.50",
+                "neg_pos_ratio": 1.0008046670690003
+            }
+        }
+    },
+    "paths": {
+        "None": {
+            "fold-0": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\None_fold-0_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\None_fold-0_train_labels.npy"
+            },
+            "fold-1": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\None_fold-1_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\None_fold-1_train_labels.npy"
+            },
+            "fold-2": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\None_fold-2_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\None_fold-2_train_labels.npy"
+            },
+            "fold-3": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\None_fold-3_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\None_fold-3_train_labels.npy"
+            },
+            "fold-4": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\None_fold-4_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\None_fold-4_train_labels.npy"
+            }
+        },
+        "RandomUnder": {
+            "fold-0": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomUnder_fold-0_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomUnder_fold-0_train_labels.npy"
+            },
+            "fold-1": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomUnder_fold-1_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomUnder_fold-1_train_labels.npy"
+            },
+            "fold-2": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomUnder_fold-2_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomUnder_fold-2_train_labels.npy"
+            },
+            "fold-3": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomUnder_fold-3_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomUnder_fold-3_train_labels.npy"
+            },
+            "fold-4": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomUnder_fold-4_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomUnder_fold-4_train_labels.npy"
+            }
+        },
+        "ENN": {
+            "fold-0": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ENN_fold-0_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ENN_fold-0_train_labels.npy"
+            },
+            "fold-1": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ENN_fold-1_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ENN_fold-1_train_labels.npy"
+            },
+            "fold-2": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ENN_fold-2_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ENN_fold-2_train_labels.npy"
+            },
+            "fold-3": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ENN_fold-3_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ENN_fold-3_train_labels.npy"
+            },
+            "fold-4": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ENN_fold-4_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ENN_fold-4_train_labels.npy"
+            }
+        },
+        "NCR": {
+            "fold-0": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\NCR_fold-0_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\NCR_fold-0_train_labels.npy"
+            },
+            "fold-1": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\NCR_fold-1_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\NCR_fold-1_train_labels.npy"
+            },
+            "fold-2": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\NCR_fold-2_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\NCR_fold-2_train_labels.npy"
+            },
+            "fold-3": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\NCR_fold-3_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\NCR_fold-3_train_labels.npy"
+            },
+            "fold-4": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\NCR_fold-4_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\NCR_fold-4_train_labels.npy"
+            }
+        },
+        "TomekLinks": {
+            "fold-0": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\TomekLinks_fold-0_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\TomekLinks_fold-0_train_labels.npy"
+            },
+            "fold-1": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\TomekLinks_fold-1_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\TomekLinks_fold-1_train_labels.npy"
+            },
+            "fold-2": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\TomekLinks_fold-2_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\TomekLinks_fold-2_train_labels.npy"
+            },
+            "fold-3": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\TomekLinks_fold-3_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\TomekLinks_fold-3_train_labels.npy"
+            },
+            "fold-4": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\TomekLinks_fold-4_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\TomekLinks_fold-4_train_labels.npy"
+            }
+        },
+        "RandomOver": {
+            "fold-0": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomOver_fold-0_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomOver_fold-0_train_labels.npy"
+            },
+            "fold-1": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomOver_fold-1_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomOver_fold-1_train_labels.npy"
+            },
+            "fold-2": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomOver_fold-2_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomOver_fold-2_train_labels.npy"
+            },
+            "fold-3": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomOver_fold-3_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomOver_fold-3_train_labels.npy"
+            },
+            "fold-4": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomOver_fold-4_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\RandomOver_fold-4_train_labels.npy"
+            }
+        },
+        "SMOTE": {
+            "fold-0": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE_fold-0_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE_fold-0_train_labels.npy"
+            },
+            "fold-1": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE_fold-1_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE_fold-1_train_labels.npy"
+            },
+            "fold-2": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE_fold-2_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE_fold-2_train_labels.npy"
+            },
+            "fold-3": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE_fold-3_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE_fold-3_train_labels.npy"
+            },
+            "fold-4": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE_fold-4_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE_fold-4_train_labels.npy"
+            }
+        },
+        "ADASYS": {
+            "fold-0": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ADASYS_fold-0_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ADASYS_fold-0_train_labels.npy"
+            },
+            "fold-1": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ADASYS_fold-1_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ADASYS_fold-1_train_labels.npy"
+            },
+            "fold-2": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ADASYS_fold-2_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ADASYS_fold-2_train_labels.npy"
+            },
+            "fold-3": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ADASYS_fold-3_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ADASYS_fold-3_train_labels.npy"
+            },
+            "fold-4": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ADASYS_fold-4_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\ADASYS_fold-4_train_labels.npy"
+            }
+        },
+        "KMeansSMOTE": {
+            "fold-0": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\KMeansSMOTE_fold-0_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\KMeansSMOTE_fold-0_train_labels.npy"
+            },
+            "fold-1": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\KMeansSMOTE_fold-1_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\KMeansSMOTE_fold-1_train_labels.npy"
+            },
+            "fold-2": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\KMeansSMOTE_fold-2_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\KMeansSMOTE_fold-2_train_labels.npy"
+            },
+            "fold-3": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\KMeansSMOTE_fold-3_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\KMeansSMOTE_fold-3_train_labels.npy"
+            },
+            "fold-4": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\KMeansSMOTE_fold-4_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\KMeansSMOTE_fold-4_train_labels.npy"
+            }
+        },
+        "SMOTE-TOMEK": {
+            "fold-0": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-TOMEK_fold-0_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-TOMEK_fold-0_train_labels.npy"
+            },
+            "fold-1": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-TOMEK_fold-1_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-TOMEK_fold-1_train_labels.npy"
+            },
+            "fold-2": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-TOMEK_fold-2_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-TOMEK_fold-2_train_labels.npy"
+            },
+            "fold-3": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-TOMEK_fold-3_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-TOMEK_fold-3_train_labels.npy"
+            },
+            "fold-4": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-TOMEK_fold-4_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-TOMEK_fold-4_train_labels.npy"
+            }
+        },
+        "SMOTE-ENN": {
+            "fold-0": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-ENN_fold-0_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-ENN_fold-0_train_labels.npy"
+            },
+            "fold-1": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-ENN_fold-1_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-ENN_fold-1_train_labels.npy"
+            },
+            "fold-2": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-ENN_fold-2_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-ENN_fold-2_train_labels.npy"
+            },
+            "fold-3": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-ENN_fold-3_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-ENN_fold-3_train_labels.npy"
+            },
+            "fold-4": {
+                "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-ENN_fold-4_train_features.npy",
+                "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\air_pressure\\02_sampled\\2024_03_10_17_33_25\\SMOTE-ENN_fold-4_train_labels.npy"
+            }
+        }
+    }
+}

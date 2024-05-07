@@ -1,0 +1,5 @@
+{
+    "KMeansSMOTE": {
+        "cluster_balance_threshold": 0.05
+    }
+}

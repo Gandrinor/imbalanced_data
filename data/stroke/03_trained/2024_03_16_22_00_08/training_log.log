@@ -1,0 +1,1638 @@
+[2024-03-16 22:00:08] [INFO] - 
+Starting Simulation for dataset:stroke and steps: training
+[2024-03-16 22:00:08] [INFO] - 
+Begin processing step: training
+start time: 2024_03_16_22_00_08
+[2024-03-16 22:00:08] [INFO] - 
+Created LOG file at: D:\Programming\PycharmProjects\ba\imbalanced_data\data\stroke\03_trained\2024_03_16_22_00_08\training_log.log
+[2024-03-16 22:00:08] [INFO] - Start processing data for dataset stroke and : training
+start time: 2024_03_16_22_00_08
+[2024-03-16 22:00:08] [INFO] - 
+
+Start training with train_method: LogisticRegression | sampling_method: None
+[2024-03-16 22:00:08] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - 
+
+Start training with train_method: LogisticRegression | sampling_method: RandomUnder
+[2024-03-16 22:00:08] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - 
+
+Start training with train_method: LogisticRegression | sampling_method: ENN
+[2024-03-16 22:00:08] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - 
+
+Start training with train_method: LogisticRegression | sampling_method: NCR
+[2024-03-16 22:00:08] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - 
+
+Start training with train_method: LogisticRegression | sampling_method: TomekLinks
+[2024-03-16 22:00:08] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - 
+
+Start training with train_method: LogisticRegression | sampling_method: RandomOver
+[2024-03-16 22:00:08] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - 
+
+Start training with train_method: LogisticRegression | sampling_method: SMOTE
+[2024-03-16 22:00:08] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:08] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:08] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:08] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - 
+
+Start training with train_method: LogisticRegression | sampling_method: ADASYS
+[2024-03-16 22:00:09] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - 
+
+Start training with train_method: LogisticRegression | sampling_method: KMeansSMOTE
+[2024-03-16 22:00:09] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - 
+
+Start training with train_method: LogisticRegression | sampling_method: SMOTE-TOMEK
+[2024-03-16 22:00:09] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - 
+
+Start training with train_method: LogisticRegression | sampling_method: SMOTE-ENN
+[2024-03-16 22:00:09] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:09] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:09] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:09] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - 
+
+Start training with train_method: SVM | sampling_method: None
+[2024-03-16 22:00:10] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - 
+
+Start training with train_method: SVM | sampling_method: RandomUnder
+[2024-03-16 22:00:10] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - 
+
+Start training with train_method: SVM | sampling_method: ENN
+[2024-03-16 22:00:10] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - 
+
+Start training with train_method: SVM | sampling_method: NCR
+[2024-03-16 22:00:10] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - 
+
+Start training with train_method: SVM | sampling_method: TomekLinks
+[2024-03-16 22:00:10] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - 
+
+Start training with train_method: SVM | sampling_method: RandomOver
+[2024-03-16 22:00:10] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:10] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:10] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:10] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - 
+
+Start training with train_method: SVM | sampling_method: SMOTE
+[2024-03-16 22:00:11] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - 
+
+Start training with train_method: SVM | sampling_method: ADASYS
+[2024-03-16 22:00:11] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - 
+
+Start training with train_method: SVM | sampling_method: KMeansSMOTE
+[2024-03-16 22:00:11] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:11] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:11] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:11] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:12] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:12] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:12] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:12] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:12] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:12] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:12] [INFO] - 
+
+Start training with train_method: SVM | sampling_method: SMOTE-TOMEK
+[2024-03-16 22:00:12] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:12] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:12] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:12] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:12] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:12] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:12] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:12] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:12] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:12] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:12] [INFO] - 
+
+Start training with train_method: SVM | sampling_method: SMOTE-ENN
+[2024-03-16 22:00:12] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:12] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:12] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:12] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:12] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:12] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:12] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:12] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:12] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:12] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:12] [INFO] - 
+
+Start training with train_method: KNearestNeighbours | sampling_method: None
+[2024-03-16 22:00:12] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:12] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:12] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - 
+
+Start training with train_method: KNearestNeighbours | sampling_method: RandomUnder
+[2024-03-16 22:00:13] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - 
+
+Start training with train_method: KNearestNeighbours | sampling_method: ENN
+[2024-03-16 22:00:13] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:13] [INFO] - 
+
+Start training with train_method: KNearestNeighbours | sampling_method: NCR
+[2024-03-16 22:00:13] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:13] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:13] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:14] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:14] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:14] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:14] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:14] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:14] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:14] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:14] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:14] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:14] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:14] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:14] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:14] [INFO] - 
+
+Start training with train_method: KNearestNeighbours | sampling_method: TomekLinks
+[2024-03-16 22:00:14] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:14] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:14] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:14] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:14] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:14] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:14] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:14] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:14] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:14] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:14] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:14] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:14] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:14] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:14] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:14] [INFO] - 
+
+Start training with train_method: KNearestNeighbours | sampling_method: RandomOver
+[2024-03-16 22:00:14] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:14] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:14] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:14] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:14] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:14] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:14] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:14] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:14] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:14] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:14] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:15] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:15] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:15] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:15] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:15] [INFO] - 
+
+Start training with train_method: KNearestNeighbours | sampling_method: SMOTE
+[2024-03-16 22:00:15] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:15] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:15] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:15] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:15] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:15] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:15] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:15] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:15] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:15] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:15] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:15] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:15] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:15] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:15] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:15] [INFO] - 
+
+Start training with train_method: KNearestNeighbours | sampling_method: ADASYS
+[2024-03-16 22:00:15] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:15] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:15] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:15] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:15] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:15] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:15] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:15] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:15] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:15] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:15] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:15] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:15] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:15] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:15] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:15] [INFO] - 
+
+Start training with train_method: KNearestNeighbours | sampling_method: KMeansSMOTE
+[2024-03-16 22:00:15] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:15] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:15] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:15] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:15] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:16] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:16] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:16] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:16] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:16] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:16] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:16] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:16] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:16] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:16] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:16] [INFO] - 
+
+Start training with train_method: KNearestNeighbours | sampling_method: SMOTE-TOMEK
+[2024-03-16 22:00:16] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:16] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:16] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:16] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:16] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:16] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:16] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:16] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:16] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:16] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:16] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:16] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:16] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:16] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:16] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:16] [INFO] - 
+
+Start training with train_method: KNearestNeighbours | sampling_method: SMOTE-ENN
+[2024-03-16 22:00:16] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:16] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:16] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:16] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:16] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:16] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:16] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:16] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:16] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:17] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:17] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:17] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:17] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:17] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:17] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:17] [INFO] - 
+
+Start training with train_method: RandomForest | sampling_method: None
+[2024-03-16 22:00:17] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:17] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:17] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:17] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:17] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:17] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:17] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:17] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:17] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:17] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:18] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:18] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:18] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:18] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:18] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:18] [INFO] - 
+
+Start training with train_method: RandomForest | sampling_method: RandomUnder
+[2024-03-16 22:00:18] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:18] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:18] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:18] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:18] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:18] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:18] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:18] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:18] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:18] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:18] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:18] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:19] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:19] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:19] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:19] [INFO] - 
+
+Start training with train_method: RandomForest | sampling_method: ENN
+[2024-03-16 22:00:19] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:19] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:19] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:19] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:19] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:19] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:19] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:19] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:19] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:19] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:20] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:20] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:20] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:20] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:20] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:20] [INFO] - 
+
+Start training with train_method: RandomForest | sampling_method: NCR
+[2024-03-16 22:00:20] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:20] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:20] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:20] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:20] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:20] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:20] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:20] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:21] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:21] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:21] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:21] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:21] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:21] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:21] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:21] [INFO] - 
+
+Start training with train_method: RandomForest | sampling_method: TomekLinks
+[2024-03-16 22:00:21] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:21] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:21] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:21] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:21] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:22] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:22] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:22] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:22] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:22] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:22] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:22] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:22] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:22] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:22] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:22] [INFO] - 
+
+Start training with train_method: RandomForest | sampling_method: RandomOver
+[2024-03-16 22:00:22] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:23] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:23] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:23] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:23] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:23] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:23] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:23] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:23] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:23] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:24] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:24] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:24] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:24] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:24] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:24] [INFO] - 
+
+Start training with train_method: RandomForest | sampling_method: SMOTE
+[2024-03-16 22:00:24] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:24] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:24] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:25] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:25] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:25] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:25] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:26] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:26] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:26] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:26] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:26] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:26] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:27] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:27] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:27] [INFO] - 
+
+Start training with train_method: RandomForest | sampling_method: ADASYS
+[2024-03-16 22:00:27] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:27] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:27] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:27] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:28] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:28] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:28] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:28] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:28] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:28] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:29] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:29] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:29] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:29] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:29] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:29] [INFO] - 
+
+Start training with train_method: RandomForest | sampling_method: KMeansSMOTE
+[2024-03-16 22:00:29] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:30] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:30] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:30] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:30] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:30] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:30] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:31] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:31] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:31] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:31] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:31] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:31] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:32] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:32] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:32] [INFO] - 
+
+Start training with train_method: RandomForest | sampling_method: SMOTE-TOMEK
+[2024-03-16 22:00:32] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:32] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:32] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:32] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:33] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:33] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:33] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:33] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:33] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:33] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:34] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:34] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:34] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:34] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:34] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:34] [INFO] - 
+
+Start training with train_method: RandomForest | sampling_method: SMOTE-ENN
+[2024-03-16 22:00:34] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:35] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:35] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:35] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:35] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:35] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:35] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:36] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:36] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:36] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:36] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:36] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:36] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:37] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:37] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:37] [INFO] - 
+
+Start training with train_method: MLP | sampling_method: None
+[2024-03-16 22:00:37] [INFO] - hidden activation: relu
+[2024-03-16 22:00:37] [INFO] - loss function nlll
+[2024-03-16 22:00:37] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:37] [INFO] - Most successful epoch = 12 | lowest loss : 0.0007872716662444806
+[2024-03-16 22:00:37] [INFO] - Training done!
+[2024-03-16 22:00:37] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:37] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:37] [INFO] - hidden activation: relu
+[2024-03-16 22:00:37] [INFO] - loss function nlll
+[2024-03-16 22:00:37] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:38] [INFO] - Most successful epoch = 11 | lowest loss : 0.0007812639312765997
+[2024-03-16 22:00:38] [INFO] - Training done!
+[2024-03-16 22:00:38] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:38] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:38] [INFO] - hidden activation: relu
+[2024-03-16 22:00:38] [INFO] - loss function nlll
+[2024-03-16 22:00:38] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:38] [INFO] - Most successful epoch = 12 | lowest loss : 0.0007795894061726773
+[2024-03-16 22:00:38] [INFO] - Training done!
+[2024-03-16 22:00:38] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:38] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:39] [INFO] - hidden activation: relu
+[2024-03-16 22:00:39] [INFO] - loss function nlll
+[2024-03-16 22:00:39] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:39] [INFO] - Most successful epoch = 12 | lowest loss : 0.0007841236716710735
+[2024-03-16 22:00:39] [INFO] - Training done!
+[2024-03-16 22:00:39] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:39] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:39] [INFO] - hidden activation: relu
+[2024-03-16 22:00:39] [INFO] - loss function nlll
+[2024-03-16 22:00:39] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:40] [INFO] - Most successful epoch = 12 | lowest loss : 0.0007862340158151269
+[2024-03-16 22:00:40] [INFO] - Training done!
+[2024-03-16 22:00:40] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:40] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:40] [INFO] - 
+
+Start training with train_method: MLP | sampling_method: RandomUnder
+[2024-03-16 22:00:40] [INFO] - hidden activation: relu
+[2024-03-16 22:00:40] [INFO] - loss function nlll
+[2024-03-16 22:00:40] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:40] [INFO] - Most successful epoch = 10 | lowest loss : 0.0037079915672005295
+[2024-03-16 22:00:40] [INFO] - Training done!
+[2024-03-16 22:00:40] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:40] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:40] [INFO] - hidden activation: relu
+[2024-03-16 22:00:40] [INFO] - loss function nlll
+[2024-03-16 22:00:40] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:40] [INFO] - Most successful epoch = 10 | lowest loss : 0.003579076357230455
+[2024-03-16 22:00:40] [INFO] - Training done!
+[2024-03-16 22:00:40] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:40] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:40] [INFO] - hidden activation: relu
+[2024-03-16 22:00:40] [INFO] - loss function nlll
+[2024-03-16 22:00:40] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:40] [INFO] - Most successful epoch = 10 | lowest loss : 0.003673409273524484
+[2024-03-16 22:00:40] [INFO] - Training done!
+[2024-03-16 22:00:40] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:40] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:40] [INFO] - hidden activation: relu
+[2024-03-16 22:00:40] [INFO] - loss function nlll
+[2024-03-16 22:00:40] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:40] [INFO] - Most successful epoch = 10 | lowest loss : 0.0036052178123040114
+[2024-03-16 22:00:40] [INFO] - Training done!
+[2024-03-16 22:00:40] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:40] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:40] [INFO] - hidden activation: relu
+[2024-03-16 22:00:40] [INFO] - loss function nlll
+[2024-03-16 22:00:40] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:40] [INFO] - Most successful epoch =  9 | lowest loss : 0.0036393540600935617
+[2024-03-16 22:00:40] [INFO] - Training done!
+[2024-03-16 22:00:40] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:40] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:40] [INFO] - 
+
+Start training with train_method: MLP | sampling_method: ENN
+[2024-03-16 22:00:40] [INFO] - hidden activation: relu
+[2024-03-16 22:00:40] [INFO] - loss function nlll
+[2024-03-16 22:00:40] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:41] [INFO] - Most successful epoch = 12 | lowest loss : 0.0008169485771342771
+[2024-03-16 22:00:41] [INFO] - Training done!
+[2024-03-16 22:00:41] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:41] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:41] [INFO] - hidden activation: relu
+[2024-03-16 22:00:41] [INFO] - loss function nlll
+[2024-03-16 22:00:41] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:41] [INFO] - Most successful epoch = 12 | lowest loss : 0.000803458759911747
+[2024-03-16 22:00:41] [INFO] - Training done!
+[2024-03-16 22:00:41] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:41] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:41] [INFO] - hidden activation: relu
+[2024-03-16 22:00:41] [INFO] - loss function nlll
+[2024-03-16 22:00:41] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:42] [INFO] - Most successful epoch = 11 | lowest loss : 0.0008116276499931535
+[2024-03-16 22:00:42] [INFO] - Training done!
+[2024-03-16 22:00:42] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:42] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:42] [INFO] - hidden activation: relu
+[2024-03-16 22:00:42] [INFO] - loss function nlll
+[2024-03-16 22:00:42] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:42] [INFO] - Most successful epoch = 12 | lowest loss : 0.0008037647924644564
+[2024-03-16 22:00:42] [INFO] - Training done!
+[2024-03-16 22:00:42] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:42] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:42] [INFO] - hidden activation: relu
+[2024-03-16 22:00:42] [INFO] - loss function nlll
+[2024-03-16 22:00:42] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:43] [INFO] - Most successful epoch = 12 | lowest loss : 0.0008051835285464074
+[2024-03-16 22:00:43] [INFO] - Training done!
+[2024-03-16 22:00:43] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:43] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:43] [INFO] - 
+
+Start training with train_method: MLP | sampling_method: NCR
+[2024-03-16 22:00:43] [INFO] - hidden activation: relu
+[2024-03-16 22:00:43] [INFO] - loss function nlll
+[2024-03-16 22:00:43] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:43] [INFO] - Most successful epoch = 12 | lowest loss : 0.0008219086649934653
+[2024-03-16 22:00:43] [INFO] - Training done!
+[2024-03-16 22:00:43] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:43] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:43] [INFO] - hidden activation: relu
+[2024-03-16 22:00:43] [INFO] - loss function nlll
+[2024-03-16 22:00:43] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:44] [INFO] - Most successful epoch = 12 | lowest loss : 0.0008083653620287227
+[2024-03-16 22:00:44] [INFO] - Training done!
+[2024-03-16 22:00:44] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:44] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:44] [INFO] - hidden activation: relu
+[2024-03-16 22:00:44] [INFO] - loss function nlll
+[2024-03-16 22:00:44] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:44] [INFO] - Most successful epoch = 11 | lowest loss : 0.0008128036435156486
+[2024-03-16 22:00:44] [INFO] - Training done!
+[2024-03-16 22:00:44] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:44] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:44] [INFO] - hidden activation: relu
+[2024-03-16 22:00:44] [INFO] - loss function nlll
+[2024-03-16 22:00:44] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:45] [INFO] - Most successful epoch = 11 | lowest loss : 0.0008168354945727565
+[2024-03-16 22:00:45] [INFO] - Training done!
+[2024-03-16 22:00:45] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:45] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:45] [INFO] - hidden activation: relu
+[2024-03-16 22:00:45] [INFO] - loss function nlll
+[2024-03-16 22:00:45] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:45] [INFO] - Most successful epoch = 12 | lowest loss : 0.0008130727068511045
+[2024-03-16 22:00:45] [INFO] - Training done!
+[2024-03-16 22:00:45] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:45] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:45] [INFO] - 
+
+Start training with train_method: MLP | sampling_method: TomekLinks
+[2024-03-16 22:00:45] [INFO] - hidden activation: relu
+[2024-03-16 22:00:45] [INFO] - loss function nlll
+[2024-03-16 22:00:45] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:46] [INFO] - Most successful epoch = 12 | lowest loss : 0.0007991432337099582
+[2024-03-16 22:00:46] [INFO] - Training done!
+[2024-03-16 22:00:46] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:46] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:46] [INFO] - hidden activation: relu
+[2024-03-16 22:00:46] [INFO] - loss function nlll
+[2024-03-16 22:00:46] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:46] [INFO] - Most successful epoch =  9 | lowest loss : 0.0007987390095178754
+[2024-03-16 22:00:46] [INFO] - Training done!
+[2024-03-16 22:00:46] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:46] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:46] [INFO] - hidden activation: relu
+[2024-03-16 22:00:46] [INFO] - loss function nlll
+[2024-03-16 22:00:46] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:47] [INFO] - Most successful epoch = 12 | lowest loss : 0.0007985500194648704
+[2024-03-16 22:00:47] [INFO] - Training done!
+[2024-03-16 22:00:47] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:47] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:47] [INFO] - hidden activation: relu
+[2024-03-16 22:00:47] [INFO] - loss function nlll
+[2024-03-16 22:00:47] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:48] [INFO] - Most successful epoch = 12 | lowest loss : 0.0008013586592804709
+[2024-03-16 22:00:48] [INFO] - Training done!
+[2024-03-16 22:00:48] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:48] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:48] [INFO] - hidden activation: relu
+[2024-03-16 22:00:48] [INFO] - loss function nlll
+[2024-03-16 22:00:48] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:48] [INFO] - Most successful epoch =  9 | lowest loss : 0.0008020452312127201
+[2024-03-16 22:00:48] [INFO] - Training done!
+[2024-03-16 22:00:48] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:48] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:48] [INFO] - 
+
+Start training with train_method: MLP | sampling_method: RandomOver
+[2024-03-16 22:00:48] [INFO] - hidden activation: relu
+[2024-03-16 22:00:48] [INFO] - loss function nlll
+[2024-03-16 22:00:48] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:49] [INFO] - Most successful epoch = 11 | lowest loss : 0.0023788183451967037
+[2024-03-16 22:00:49] [INFO] - Training done!
+[2024-03-16 22:00:49] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:49] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:49] [INFO] - hidden activation: relu
+[2024-03-16 22:00:49] [INFO] - loss function nlll
+[2024-03-16 22:00:49] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:50] [INFO] - Most successful epoch = 10 | lowest loss : 0.0023553826984889963
+[2024-03-16 22:00:50] [INFO] - Training done!
+[2024-03-16 22:00:50] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:50] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:50] [INFO] - hidden activation: relu
+[2024-03-16 22:00:50] [INFO] - loss function nlll
+[2024-03-16 22:00:50] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:51] [INFO] - Most successful epoch = 12 | lowest loss : 0.0023306560643175816
+[2024-03-16 22:00:51] [INFO] - Training done!
+[2024-03-16 22:00:51] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:51] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:51] [INFO] - hidden activation: relu
+[2024-03-16 22:00:51] [INFO] - loss function nlll
+[2024-03-16 22:00:51] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:52] [INFO] - Most successful epoch = 11 | lowest loss : 0.0024148143510869208
+[2024-03-16 22:00:52] [INFO] - Training done!
+[2024-03-16 22:00:52] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:52] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:52] [INFO] - hidden activation: relu
+[2024-03-16 22:00:52] [INFO] - loss function nlll
+[2024-03-16 22:00:52] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:53] [INFO] - Most successful epoch = 12 | lowest loss : 0.0023797239870467085
+[2024-03-16 22:00:53] [INFO] - Training done!
+[2024-03-16 22:00:53] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:53] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:53] [INFO] - 
+
+Start training with train_method: MLP | sampling_method: SMOTE
+[2024-03-16 22:00:53] [INFO] - hidden activation: relu
+[2024-03-16 22:00:53] [INFO] - loss function nlll
+[2024-03-16 22:00:53] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:54] [INFO] - Most successful epoch = 13 | lowest loss : 0.002269302431414736
+[2024-03-16 22:00:54] [INFO] - Training done!
+[2024-03-16 22:00:54] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:54] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:54] [INFO] - hidden activation: relu
+[2024-03-16 22:00:54] [INFO] - loss function nlll
+[2024-03-16 22:00:54] [INFO] - Fold 1: Train Model
+[2024-03-16 22:00:55] [INFO] - Most successful epoch = 13 | lowest loss : 0.0022486350558539652
+[2024-03-16 22:00:55] [INFO] - Training done!
+[2024-03-16 22:00:55] [INFO] - Fold 1: Save model
+[2024-03-16 22:00:55] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:00:55] [INFO] - hidden activation: relu
+[2024-03-16 22:00:55] [INFO] - loss function nlll
+[2024-03-16 22:00:55] [INFO] - Fold 2: Train Model
+[2024-03-16 22:00:56] [INFO] - Most successful epoch = 12 | lowest loss : 0.002259733309929675
+[2024-03-16 22:00:56] [INFO] - Training done!
+[2024-03-16 22:00:56] [INFO] - Fold 2: Save model
+[2024-03-16 22:00:56] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:00:56] [INFO] - hidden activation: relu
+[2024-03-16 22:00:56] [INFO] - loss function nlll
+[2024-03-16 22:00:56] [INFO] - Fold 3: Train Model
+[2024-03-16 22:00:57] [INFO] - Most successful epoch = 12 | lowest loss : 0.002305254078608878
+[2024-03-16 22:00:57] [INFO] - Training done!
+[2024-03-16 22:00:57] [INFO] - Fold 3: Save model
+[2024-03-16 22:00:57] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:00:57] [INFO] - hidden activation: relu
+[2024-03-16 22:00:57] [INFO] - loss function nlll
+[2024-03-16 22:00:57] [INFO] - Fold 4: Train Model
+[2024-03-16 22:00:58] [INFO] - Most successful epoch = 12 | lowest loss : 0.0022744908294779187
+[2024-03-16 22:00:58] [INFO] - Training done!
+[2024-03-16 22:00:58] [INFO] - Fold 4: Save model
+[2024-03-16 22:00:58] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:00:58] [INFO] - 
+
+Start training with train_method: MLP | sampling_method: ADASYS
+[2024-03-16 22:00:58] [INFO] - hidden activation: relu
+[2024-03-16 22:00:58] [INFO] - loss function nlll
+[2024-03-16 22:00:58] [INFO] - Fold 0: Train Model
+[2024-03-16 22:00:59] [INFO] - Most successful epoch = 11 | lowest loss : 0.002328812916755039
+[2024-03-16 22:00:59] [INFO] - Training done!
+[2024-03-16 22:00:59] [INFO] - Fold 0: Save model
+[2024-03-16 22:00:59] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:00:59] [INFO] - hidden activation: relu
+[2024-03-16 22:00:59] [INFO] - loss function nlll
+[2024-03-16 22:00:59] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:00] [INFO] - Most successful epoch = 13 | lowest loss : 0.002277991185178132
+[2024-03-16 22:01:00] [INFO] - Training done!
+[2024-03-16 22:01:00] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:00] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:00] [INFO] - hidden activation: relu
+[2024-03-16 22:01:00] [INFO] - loss function nlll
+[2024-03-16 22:01:00] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:01] [INFO] - Most successful epoch = 12 | lowest loss : 0.002276118304612749
+[2024-03-16 22:01:01] [INFO] - Training done!
+[2024-03-16 22:01:01] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:01] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:01] [INFO] - hidden activation: relu
+[2024-03-16 22:01:01] [INFO] - loss function nlll
+[2024-03-16 22:01:01] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:02] [INFO] - Most successful epoch = 12 | lowest loss : 0.002287829906510917
+[2024-03-16 22:01:02] [INFO] - Training done!
+[2024-03-16 22:01:02] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:02] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:02] [INFO] - hidden activation: relu
+[2024-03-16 22:01:02] [INFO] - loss function nlll
+[2024-03-16 22:01:02] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:03] [INFO] - Most successful epoch = 13 | lowest loss : 0.0022978167757212974
+[2024-03-16 22:01:03] [INFO] - Training done!
+[2024-03-16 22:01:03] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:03] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:01:03] [INFO] - 
+
+Start training with train_method: MLP | sampling_method: KMeansSMOTE
+[2024-03-16 22:01:03] [INFO] - hidden activation: relu
+[2024-03-16 22:01:03] [INFO] - loss function nlll
+[2024-03-16 22:01:03] [INFO] - Fold 0: Train Model
+[2024-03-16 22:01:04] [INFO] - Most successful epoch = 12 | lowest loss : 0.002180679138909309
+[2024-03-16 22:01:04] [INFO] - Training done!
+[2024-03-16 22:01:04] [INFO] - Fold 0: Save model
+[2024-03-16 22:01:04] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:01:04] [INFO] - hidden activation: relu
+[2024-03-16 22:01:04] [INFO] - loss function nlll
+[2024-03-16 22:01:04] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:05] [INFO] - Most successful epoch = 12 | lowest loss : 0.0018676845234230689
+[2024-03-16 22:01:05] [INFO] - Training done!
+[2024-03-16 22:01:05] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:05] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:05] [INFO] - hidden activation: relu
+[2024-03-16 22:01:05] [INFO] - loss function nlll
+[2024-03-16 22:01:05] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:06] [INFO] - Most successful epoch = 12 | lowest loss : 0.002197352789463245
+[2024-03-16 22:01:06] [INFO] - Training done!
+[2024-03-16 22:01:06] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:06] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:06] [INFO] - hidden activation: relu
+[2024-03-16 22:01:06] [INFO] - loss function nlll
+[2024-03-16 22:01:06] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:07] [INFO] - Most successful epoch = 12 | lowest loss : 0.002020094495649557
+[2024-03-16 22:01:07] [INFO] - Training done!
+[2024-03-16 22:01:07] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:07] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:07] [INFO] - hidden activation: relu
+[2024-03-16 22:01:07] [INFO] - loss function nlll
+[2024-03-16 22:01:07] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:08] [INFO] - Most successful epoch = 11 | lowest loss : 0.0020884208795207194
+[2024-03-16 22:01:08] [INFO] - Training done!
+[2024-03-16 22:01:08] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:08] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:01:08] [INFO] - 
+
+Start training with train_method: MLP | sampling_method: SMOTE-TOMEK
+[2024-03-16 22:01:08] [INFO] - hidden activation: relu
+[2024-03-16 22:01:08] [INFO] - loss function nlll
+[2024-03-16 22:01:08] [INFO] - Fold 0: Train Model
+[2024-03-16 22:01:09] [INFO] - Most successful epoch = 12 | lowest loss : 0.002280241134666756
+[2024-03-16 22:01:09] [INFO] - Training done!
+[2024-03-16 22:01:09] [INFO] - Fold 0: Save model
+[2024-03-16 22:01:09] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:01:09] [INFO] - hidden activation: relu
+[2024-03-16 22:01:09] [INFO] - loss function nlll
+[2024-03-16 22:01:09] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:10] [INFO] - Most successful epoch = 13 | lowest loss : 0.002251077394619166
+[2024-03-16 22:01:10] [INFO] - Training done!
+[2024-03-16 22:01:10] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:10] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:10] [INFO] - hidden activation: relu
+[2024-03-16 22:01:10] [INFO] - loss function nlll
+[2024-03-16 22:01:10] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:11] [INFO] - Most successful epoch = 12 | lowest loss : 0.0022776635793539195
+[2024-03-16 22:01:11] [INFO] - Training done!
+[2024-03-16 22:01:11] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:11] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:11] [INFO] - hidden activation: relu
+[2024-03-16 22:01:11] [INFO] - loss function nlll
+[2024-03-16 22:01:11] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:12] [INFO] - Most successful epoch = 11 | lowest loss : 0.0023089154242895045
+[2024-03-16 22:01:12] [INFO] - Training done!
+[2024-03-16 22:01:12] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:12] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:12] [INFO] - hidden activation: relu
+[2024-03-16 22:01:12] [INFO] - loss function nlll
+[2024-03-16 22:01:12] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:13] [INFO] - Most successful epoch =  9 | lowest loss : 0.0022932794887965107
+[2024-03-16 22:01:13] [INFO] - Training done!
+[2024-03-16 22:01:13] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:13] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:01:13] [INFO] - 
+
+Start training with train_method: MLP | sampling_method: SMOTE-ENN
+[2024-03-16 22:01:13] [INFO] - hidden activation: relu
+[2024-03-16 22:01:13] [INFO] - loss function nlll
+[2024-03-16 22:01:13] [INFO] - Fold 0: Train Model
+[2024-03-16 22:01:14] [INFO] - Most successful epoch = 13 | lowest loss : 0.0022137047252225516
+[2024-03-16 22:01:14] [INFO] - Training done!
+[2024-03-16 22:01:14] [INFO] - Fold 0: Save model
+[2024-03-16 22:01:14] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:01:14] [INFO] - hidden activation: relu
+[2024-03-16 22:01:14] [INFO] - loss function nlll
+[2024-03-16 22:01:14] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:15] [INFO] - Most successful epoch =  9 | lowest loss : 0.0022495675407828257
+[2024-03-16 22:01:15] [INFO] - Training done!
+[2024-03-16 22:01:15] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:15] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:15] [INFO] - hidden activation: relu
+[2024-03-16 22:01:15] [INFO] - loss function nlll
+[2024-03-16 22:01:15] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:16] [INFO] - Most successful epoch = 11 | lowest loss : 0.002252772751522302
+[2024-03-16 22:01:16] [INFO] - Training done!
+[2024-03-16 22:01:16] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:16] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:16] [INFO] - hidden activation: relu
+[2024-03-16 22:01:16] [INFO] - loss function nlll
+[2024-03-16 22:01:16] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:17] [INFO] - Most successful epoch = 10 | lowest loss : 0.0022980040581353015
+[2024-03-16 22:01:17] [INFO] - Training done!
+[2024-03-16 22:01:17] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:17] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:17] [INFO] - hidden activation: relu
+[2024-03-16 22:01:17] [INFO] - loss function nlll
+[2024-03-16 22:01:17] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:18] [INFO] - Most successful epoch = 11 | lowest loss : 0.0022796995514542504
+[2024-03-16 22:01:18] [INFO] - Training done!
+[2024-03-16 22:01:18] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:18] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:01:18] [WARNING] - MLP-Cost learning method is only available for air_pressure dataset!
+[2024-03-16 22:01:18] [INFO] - 
+
+Start training with train_method: MLP-Cost | sampling_method: None
+[2024-03-16 22:01:18] [INFO] - hidden activation: relu
+[2024-03-16 22:01:18] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:18] [INFO] - Fold 0: Train Model
+[2024-03-16 22:01:18] [INFO] - Most successful epoch = 12 | lowest loss : 0.002341722475228675
+[2024-03-16 22:01:18] [INFO] - Training done!
+[2024-03-16 22:01:18] [INFO] - Fold 0: Save model
+[2024-03-16 22:01:18] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:01:18] [INFO] - hidden activation: relu
+[2024-03-16 22:01:18] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:18] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:19] [INFO] - Most successful epoch = 12 | lowest loss : 0.0023362539805375135
+[2024-03-16 22:01:19] [INFO] - Training done!
+[2024-03-16 22:01:19] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:19] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:19] [INFO] - hidden activation: relu
+[2024-03-16 22:01:19] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:19] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:19] [INFO] - Most successful epoch = 16 | lowest loss : 0.0021826993092526484
+[2024-03-16 22:01:19] [INFO] - Training done!
+[2024-03-16 22:01:19] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:19] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:19] [INFO] - hidden activation: relu
+[2024-03-16 22:01:19] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:19] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:20] [INFO] - Most successful epoch = 10 | lowest loss : 0.002398322041113018
+[2024-03-16 22:01:20] [INFO] - Training done!
+[2024-03-16 22:01:20] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:20] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:20] [INFO] - hidden activation: relu
+[2024-03-16 22:01:20] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:20] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:21] [INFO] - Most successful epoch = 14 | lowest loss : 0.0022537114208681765
+[2024-03-16 22:01:21] [INFO] - Training done!
+[2024-03-16 22:01:21] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:21] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:01:21] [INFO] - 
+
+Start training with train_method: MLP-Cost | sampling_method: RandomUnder
+[2024-03-16 22:01:21] [INFO] - hidden activation: relu
+[2024-03-16 22:01:21] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:21] [INFO] - Fold 0: Train Model
+[2024-03-16 22:01:21] [INFO] - Most successful epoch = 19 | lowest loss : 0.0005687209972721374
+[2024-03-16 22:01:21] [INFO] - Training done!
+[2024-03-16 22:01:21] [INFO] - Fold 0: Save model
+[2024-03-16 22:01:21] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:01:21] [INFO] - hidden activation: relu
+[2024-03-16 22:01:21] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:21] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:21] [INFO] - Most successful epoch = 19 | lowest loss : 0.0005591421382512875
+[2024-03-16 22:01:21] [INFO] - Training done!
+[2024-03-16 22:01:21] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:21] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:21] [INFO] - hidden activation: relu
+[2024-03-16 22:01:21] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:21] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:21] [INFO] - Most successful epoch = 19 | lowest loss : 0.0005609081266169062
+[2024-03-16 22:01:21] [INFO] - Training done!
+[2024-03-16 22:01:21] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:21] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:21] [INFO] - hidden activation: relu
+[2024-03-16 22:01:21] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:21] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:21] [INFO] - Most successful epoch = 19 | lowest loss : 0.0005566313148972518
+[2024-03-16 22:01:21] [INFO] - Training done!
+[2024-03-16 22:01:21] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:21] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:21] [INFO] - hidden activation: relu
+[2024-03-16 22:01:21] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:21] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:21] [INFO] - Most successful epoch = 20 | lowest loss : 0.0005527344487962269
+[2024-03-16 22:01:21] [INFO] - Training done!
+[2024-03-16 22:01:21] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:21] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:01:21] [INFO] - 
+
+Start training with train_method: MLP-Cost | sampling_method: ENN
+[2024-03-16 22:01:21] [INFO] - hidden activation: relu
+[2024-03-16 22:01:21] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:21] [INFO] - Fold 0: Train Model
+[2024-03-16 22:01:22] [INFO] - Most successful epoch = 11 | lowest loss : 0.0021435405935867928
+[2024-03-16 22:01:22] [INFO] - Training done!
+[2024-03-16 22:01:22] [INFO] - Fold 0: Save model
+[2024-03-16 22:01:22] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:01:22] [INFO] - hidden activation: relu
+[2024-03-16 22:01:22] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:22] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:23] [INFO] - Most successful epoch = 18 | lowest loss : 0.0019738482746407557
+[2024-03-16 22:01:23] [INFO] - Training done!
+[2024-03-16 22:01:23] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:23] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:23] [INFO] - hidden activation: relu
+[2024-03-16 22:01:23] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:23] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:23] [INFO] - Most successful epoch = 13 | lowest loss : 0.001993465277834782
+[2024-03-16 22:01:23] [INFO] - Training done!
+[2024-03-16 22:01:23] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:23] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:23] [INFO] - hidden activation: relu
+[2024-03-16 22:01:23] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:23] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:24] [INFO] - Most successful epoch =  9 | lowest loss : 0.002170498061375816
+[2024-03-16 22:01:24] [INFO] - Training done!
+[2024-03-16 22:01:24] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:24] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:24] [INFO] - hidden activation: relu
+[2024-03-16 22:01:24] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:24] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:24] [INFO] - Most successful epoch = 16 | lowest loss : 0.00202749010816602
+[2024-03-16 22:01:24] [INFO] - Training done!
+[2024-03-16 22:01:24] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:24] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:01:24] [INFO] - 
+
+Start training with train_method: MLP-Cost | sampling_method: NCR
+[2024-03-16 22:01:24] [INFO] - hidden activation: relu
+[2024-03-16 22:01:24] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:24] [INFO] - Fold 0: Train Model
+[2024-03-16 22:01:25] [INFO] - Most successful epoch = 16 | lowest loss : 0.0020913912808753436
+[2024-03-16 22:01:25] [INFO] - Training done!
+[2024-03-16 22:01:25] [INFO] - Fold 0: Save model
+[2024-03-16 22:01:25] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:01:25] [INFO] - hidden activation: relu
+[2024-03-16 22:01:25] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:25] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:25] [INFO] - Most successful epoch = 12 | lowest loss : 0.002100986341271909
+[2024-03-16 22:01:25] [INFO] - Training done!
+[2024-03-16 22:01:25] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:25] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:25] [INFO] - hidden activation: relu
+[2024-03-16 22:01:25] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:25] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:26] [INFO] - Most successful epoch = 14 | lowest loss : 0.001989273035160935
+[2024-03-16 22:01:26] [INFO] - Training done!
+[2024-03-16 22:01:26] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:26] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:26] [INFO] - hidden activation: relu
+[2024-03-16 22:01:26] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:26] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:26] [INFO] - Most successful epoch =  8 | lowest loss : 0.0022151278928237506
+[2024-03-16 22:01:26] [INFO] - Training done!
+[2024-03-16 22:01:26] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:26] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:26] [INFO] - hidden activation: relu
+[2024-03-16 22:01:26] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:26] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:27] [INFO] - Most successful epoch = 13 | lowest loss : 0.002063653505260946
+[2024-03-16 22:01:27] [INFO] - Training done!
+[2024-03-16 22:01:27] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:27] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:01:27] [INFO] - 
+
+Start training with train_method: MLP-Cost | sampling_method: TomekLinks
+[2024-03-16 22:01:27] [INFO] - hidden activation: relu
+[2024-03-16 22:01:27] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:27] [INFO] - Fold 0: Train Model
+[2024-03-16 22:01:27] [INFO] - Most successful epoch = 14 | lowest loss : 0.002274654291893956
+[2024-03-16 22:01:27] [INFO] - Training done!
+[2024-03-16 22:01:27] [INFO] - Fold 0: Save model
+[2024-03-16 22:01:27] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:01:27] [INFO] - hidden activation: relu
+[2024-03-16 22:01:27] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:27] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:28] [INFO] - Most successful epoch = 20 | lowest loss : 0.002171829222483583
+[2024-03-16 22:01:28] [INFO] - Training done!
+[2024-03-16 22:01:28] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:28] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:28] [INFO] - hidden activation: relu
+[2024-03-16 22:01:28] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:28] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:29] [INFO] - Most successful epoch = 19 | lowest loss : 0.0021940188102886164
+[2024-03-16 22:01:29] [INFO] - Training done!
+[2024-03-16 22:01:29] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:29] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:29] [INFO] - hidden activation: relu
+[2024-03-16 22:01:29] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:29] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:29] [INFO] - Most successful epoch = 12 | lowest loss : 0.0023417334698835595
+[2024-03-16 22:01:29] [INFO] - Training done!
+[2024-03-16 22:01:29] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:29] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:30] [INFO] - hidden activation: relu
+[2024-03-16 22:01:30] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:30] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:30] [INFO] - Most successful epoch = 12 | lowest loss : 0.0023305937434668967
+[2024-03-16 22:01:30] [INFO] - Training done!
+[2024-03-16 22:01:30] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:30] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:01:30] [INFO] - 
+
+Start training with train_method: MLP-Cost | sampling_method: RandomOver
+[2024-03-16 22:01:30] [INFO] - hidden activation: relu
+[2024-03-16 22:01:30] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:30] [INFO] - Fold 0: Train Model
+[2024-03-16 22:01:31] [INFO] - Most successful epoch = 11 | lowest loss : 0.0004078620618724443
+[2024-03-16 22:01:31] [INFO] - Training done!
+[2024-03-16 22:01:31] [INFO] - Fold 0: Save model
+[2024-03-16 22:01:31] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:01:31] [INFO] - hidden activation: relu
+[2024-03-16 22:01:31] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:31] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:32] [INFO] - Most successful epoch = 11 | lowest loss : 0.00040705635291623306
+[2024-03-16 22:01:32] [INFO] - Training done!
+[2024-03-16 22:01:32] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:32] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:32] [INFO] - hidden activation: relu
+[2024-03-16 22:01:32] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:32] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:33] [INFO] - Most successful epoch = 11 | lowest loss : 0.00037306244039234327
+[2024-03-16 22:01:33] [INFO] - Training done!
+[2024-03-16 22:01:33] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:33] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:33] [INFO] - hidden activation: relu
+[2024-03-16 22:01:33] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:33] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:34] [INFO] - Most successful epoch = 11 | lowest loss : 0.0004106763804806991
+[2024-03-16 22:01:34] [INFO] - Training done!
+[2024-03-16 22:01:34] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:34] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:34] [INFO] - hidden activation: relu
+[2024-03-16 22:01:34] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:34] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:34] [INFO] - Most successful epoch = 11 | lowest loss : 0.00040690386965078245
+[2024-03-16 22:01:34] [INFO] - Training done!
+[2024-03-16 22:01:34] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:35] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:01:35] [INFO] - 
+
+Start training with train_method: MLP-Cost | sampling_method: SMOTE
+[2024-03-16 22:01:35] [INFO] - hidden activation: relu
+[2024-03-16 22:01:35] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:35] [INFO] - Fold 0: Train Model
+[2024-03-16 22:01:35] [INFO] - Most successful epoch = 11 | lowest loss : 0.00039202076818873276
+[2024-03-16 22:01:35] [INFO] - Training done!
+[2024-03-16 22:01:35] [INFO] - Fold 0: Save model
+[2024-03-16 22:01:36] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:01:36] [INFO] - hidden activation: relu
+[2024-03-16 22:01:36] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:36] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:36] [INFO] - Most successful epoch = 11 | lowest loss : 0.00039271166488686775
+[2024-03-16 22:01:36] [INFO] - Training done!
+[2024-03-16 22:01:36] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:36] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:36] [INFO] - hidden activation: relu
+[2024-03-16 22:01:36] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:36] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:37] [INFO] - Most successful epoch = 11 | lowest loss : 0.0003668939461931586
+[2024-03-16 22:01:37] [INFO] - Training done!
+[2024-03-16 22:01:37] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:37] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:37] [INFO] - hidden activation: relu
+[2024-03-16 22:01:37] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:37] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:38] [INFO] - Most successful epoch = 11 | lowest loss : 0.0003885031648059475
+[2024-03-16 22:01:38] [INFO] - Training done!
+[2024-03-16 22:01:38] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:38] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:38] [INFO] - hidden activation: relu
+[2024-03-16 22:01:38] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:38] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:39] [INFO] - Most successful epoch = 11 | lowest loss : 0.00038705170996724923
+[2024-03-16 22:01:39] [INFO] - Training done!
+[2024-03-16 22:01:39] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:39] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:01:39] [INFO] - 
+
+Start training with train_method: MLP-Cost | sampling_method: ADASYS
+[2024-03-16 22:01:39] [INFO] - hidden activation: relu
+[2024-03-16 22:01:39] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:39] [INFO] - Fold 0: Train Model
+[2024-03-16 22:01:40] [INFO] - Most successful epoch = 11 | lowest loss : 0.00039597875180448304
+[2024-03-16 22:01:40] [INFO] - Training done!
+[2024-03-16 22:01:40] [INFO] - Fold 0: Save model
+[2024-03-16 22:01:40] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:01:40] [INFO] - hidden activation: relu
+[2024-03-16 22:01:40] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:40] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:41] [INFO] - Most successful epoch = 11 | lowest loss : 0.0003964449107829535
+[2024-03-16 22:01:41] [INFO] - Training done!
+[2024-03-16 22:01:41] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:41] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:41] [INFO] - hidden activation: relu
+[2024-03-16 22:01:41] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:41] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:42] [INFO] - Most successful epoch = 11 | lowest loss : 0.0003693150285603095
+[2024-03-16 22:01:42] [INFO] - Training done!
+[2024-03-16 22:01:42] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:42] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:42] [INFO] - hidden activation: relu
+[2024-03-16 22:01:42] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:42] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:43] [INFO] - Most successful epoch = 11 | lowest loss : 0.00038133981111684217
+[2024-03-16 22:01:43] [INFO] - Training done!
+[2024-03-16 22:01:43] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:43] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:43] [INFO] - hidden activation: relu
+[2024-03-16 22:01:43] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:43] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:44] [INFO] - Most successful epoch = 11 | lowest loss : 0.0003938287151577252
+[2024-03-16 22:01:44] [INFO] - Training done!
+[2024-03-16 22:01:44] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:44] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:01:44] [INFO] - 
+
+Start training with train_method: MLP-Cost | sampling_method: KMeansSMOTE
+[2024-03-16 22:01:44] [INFO] - hidden activation: relu
+[2024-03-16 22:01:44] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:44] [INFO] - Fold 0: Train Model
+[2024-03-16 22:01:45] [INFO] - Most successful epoch = 11 | lowest loss : 0.0003555225492181438
+[2024-03-16 22:01:45] [INFO] - Training done!
+[2024-03-16 22:01:45] [INFO] - Fold 0: Save model
+[2024-03-16 22:01:45] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:01:45] [INFO] - hidden activation: relu
+[2024-03-16 22:01:45] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:45] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:46] [INFO] - Most successful epoch = 11 | lowest loss : 0.0003132215553562528
+[2024-03-16 22:01:46] [INFO] - Training done!
+[2024-03-16 22:01:46] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:46] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:46] [INFO] - hidden activation: relu
+[2024-03-16 22:01:46] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:46] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:47] [INFO] - Most successful epoch = 11 | lowest loss : 0.00035003677250238467
+[2024-03-16 22:01:47] [INFO] - Training done!
+[2024-03-16 22:01:47] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:47] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:47] [INFO] - hidden activation: relu
+[2024-03-16 22:01:47] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:47] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:47] [INFO] - Most successful epoch = 11 | lowest loss : 0.0003293457990463958
+[2024-03-16 22:01:47] [INFO] - Training done!
+[2024-03-16 22:01:47] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:47] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:48] [INFO] - hidden activation: relu
+[2024-03-16 22:01:48] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:48] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:48] [INFO] - Most successful epoch = 11 | lowest loss : 0.00034353038163871026
+[2024-03-16 22:01:48] [INFO] - Training done!
+[2024-03-16 22:01:48] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:48] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:01:48] [INFO] - 
+
+Start training with train_method: MLP-Cost | sampling_method: SMOTE-TOMEK
+[2024-03-16 22:01:48] [INFO] - hidden activation: relu
+[2024-03-16 22:01:48] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:48] [INFO] - Fold 0: Train Model
+[2024-03-16 22:01:49] [INFO] - Most successful epoch = 11 | lowest loss : 0.0003977079896059382
+[2024-03-16 22:01:49] [INFO] - Training done!
+[2024-03-16 22:01:49] [INFO] - Fold 0: Save model
+[2024-03-16 22:01:49] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:01:49] [INFO] - hidden activation: relu
+[2024-03-16 22:01:49] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:49] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:50] [INFO] - Most successful epoch = 11 | lowest loss : 0.00039789534020965027
+[2024-03-16 22:01:50] [INFO] - Training done!
+[2024-03-16 22:01:50] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:50] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:50] [INFO] - hidden activation: relu
+[2024-03-16 22:01:50] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:50] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:51] [INFO] - Most successful epoch = 11 | lowest loss : 0.00037248341933540673
+[2024-03-16 22:01:51] [INFO] - Training done!
+[2024-03-16 22:01:51] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:51] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:51] [INFO] - hidden activation: relu
+[2024-03-16 22:01:51] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:51] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:52] [INFO] - Most successful epoch = 11 | lowest loss : 0.000394070056457235
+[2024-03-16 22:01:52] [INFO] - Training done!
+[2024-03-16 22:01:52] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:52] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:52] [INFO] - hidden activation: relu
+[2024-03-16 22:01:52] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:52] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:53] [INFO] - Most successful epoch = 10 | lowest loss : 0.00039288984703431703
+[2024-03-16 22:01:53] [INFO] - Training done!
+[2024-03-16 22:01:53] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:53] [INFO] - Fold 4: Load Test data and calculate common metrics
+[2024-03-16 22:01:53] [INFO] - 
+
+Start training with train_method: MLP-Cost | sampling_method: SMOTE-ENN
+[2024-03-16 22:01:53] [INFO] - hidden activation: relu
+[2024-03-16 22:01:53] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:53] [INFO] - Fold 0: Train Model
+[2024-03-16 22:01:54] [INFO] - Most successful epoch = 11 | lowest loss : 0.0004108554595853012
+[2024-03-16 22:01:54] [INFO] - Training done!
+[2024-03-16 22:01:54] [INFO] - Fold 0: Save model
+[2024-03-16 22:01:54] [INFO] - Fold 0: Load Test data and calculate common metrics
+[2024-03-16 22:01:54] [INFO] - hidden activation: relu
+[2024-03-16 22:01:54] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:54] [INFO] - Fold 1: Train Model
+[2024-03-16 22:01:55] [INFO] - Most successful epoch = 11 | lowest loss : 0.0004155238407739201
+[2024-03-16 22:01:55] [INFO] - Training done!
+[2024-03-16 22:01:55] [INFO] - Fold 1: Save model
+[2024-03-16 22:01:55] [INFO] - Fold 1: Load Test data and calculate common metrics
+[2024-03-16 22:01:55] [INFO] - hidden activation: relu
+[2024-03-16 22:01:55] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:55] [INFO] - Fold 2: Train Model
+[2024-03-16 22:01:56] [INFO] - Most successful epoch = 11 | lowest loss : 0.00039287662371238313
+[2024-03-16 22:01:56] [INFO] - Training done!
+[2024-03-16 22:01:56] [INFO] - Fold 2: Save model
+[2024-03-16 22:01:56] [INFO] - Fold 2: Load Test data and calculate common metrics
+[2024-03-16 22:01:56] [INFO] - hidden activation: relu
+[2024-03-16 22:01:56] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:56] [INFO] - Fold 3: Train Model
+[2024-03-16 22:01:57] [INFO] - Most successful epoch = 10 | lowest loss : 0.0004115570465769148
+[2024-03-16 22:01:57] [INFO] - Training done!
+[2024-03-16 22:01:57] [INFO] - Fold 3: Save model
+[2024-03-16 22:01:57] [INFO] - Fold 3: Load Test data and calculate common metrics
+[2024-03-16 22:01:57] [INFO] - hidden activation: relu
+[2024-03-16 22:01:57] [INFO] - loss function nlll with weights (air_pressure)
+[2024-03-16 22:01:57] [INFO] - Fold 4: Train Model
+[2024-03-16 22:01:57] [INFO] - Most successful epoch = 11 | lowest loss : 0.00040615336241080365
+[2024-03-16 22:01:57] [INFO] - Training done!
+[2024-03-16 22:01:57] [INFO] - Fold 4: Save model
+[2024-03-16 22:01:58] [INFO] - Fold 4: Load Test data and calculate common metrics

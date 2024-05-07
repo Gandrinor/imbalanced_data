@@ -1,0 +1,215 @@
+[2024-03-22 19:57:56] [INFO] - 
+Starting Simulation for dataset:stroke and steps: metric
+[2024-03-22 19:57:56] [INFO] - 
+Begin processing step: metric
+start time: 2024_03_22_19_57_56
+[2024-03-22 19:57:56] [INFO] - 
+Created LOG file at: D:\Programming\PycharmProjects\ba\imbalanced_data\data\stroke\04_metric\2024_03_22_19_57_56\metric_log.log
+[2024-03-22 19:57:56] [INFO] - Start processing data for dataset stroke and : metric
+start time: 2024_03_22_19_57_56
+[2024-03-22 19:57:57] [INFO] - hidden activation: relu
+[2024-03-22 19:57:57] [INFO] - loss function nlll
+[2024-03-22 19:57:58] [INFO] - hidden activation: relu
+[2024-03-22 19:57:58] [INFO] - loss function nlll with weights (stroke)
+[2024-03-22 19:57:58] [INFO] - hidden activation: relu
+[2024-03-22 19:57:58] [INFO] - loss function nlll
+[2024-03-22 19:57:58] [INFO] - hidden activation: relu
+[2024-03-22 19:57:58] [INFO] - loss function nlll with weights (stroke)
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: LogisticRegression | sampling_method: None
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: LogisticRegression | sampling_method: RandomUnder
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: LogisticRegression | sampling_method: ENN
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: LogisticRegression | sampling_method: NCR
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: LogisticRegression | sampling_method: TomekLinks
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: LogisticRegression | sampling_method: RandomOver
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: LogisticRegression | sampling_method: SMOTE
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: LogisticRegression | sampling_method: ADASYS
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: LogisticRegression | sampling_method: KMeansSMOTE
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: LogisticRegression | sampling_method: SMOTE-TOMEK
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: LogisticRegression | sampling_method: SMOTE-ENN
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: SVM | sampling_method: None
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: SVM | sampling_method: RandomUnder
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: SVM | sampling_method: ENN
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: SVM | sampling_method: NCR
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: SVM | sampling_method: TomekLinks
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: SVM | sampling_method: RandomOver
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: SVM | sampling_method: SMOTE
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: SVM | sampling_method: ADASYS
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: SVM | sampling_method: KMeansSMOTE
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: SVM | sampling_method: SMOTE-TOMEK
+[2024-03-22 19:57:58] [INFO] - 
+
+Start calculating metrics for train_method: SVM | sampling_method: SMOTE-ENN
+[2024-03-22 19:57:59] [INFO] - 
+
+Start calculating metrics for train_method: KNearestNeighbours | sampling_method: None
+[2024-03-22 19:57:59] [INFO] - 
+
+Start calculating metrics for train_method: KNearestNeighbours | sampling_method: RandomUnder
+[2024-03-22 19:57:59] [INFO] - 
+
+Start calculating metrics for train_method: KNearestNeighbours | sampling_method: ENN
+[2024-03-22 19:57:59] [INFO] - 
+
+Start calculating metrics for train_method: KNearestNeighbours | sampling_method: NCR
+[2024-03-22 19:57:59] [INFO] - 
+
+Start calculating metrics for train_method: KNearestNeighbours | sampling_method: TomekLinks
+[2024-03-22 19:58:00] [INFO] - 
+
+Start calculating metrics for train_method: KNearestNeighbours | sampling_method: RandomOver
+[2024-03-22 19:58:00] [INFO] - 
+
+Start calculating metrics for train_method: KNearestNeighbours | sampling_method: SMOTE
+[2024-03-22 19:58:00] [INFO] - 
+
+Start calculating metrics for train_method: KNearestNeighbours | sampling_method: ADASYS
+[2024-03-22 19:58:00] [INFO] - 
+
+Start calculating metrics for train_method: KNearestNeighbours | sampling_method: KMeansSMOTE
+[2024-03-22 19:58:00] [INFO] - 
+
+Start calculating metrics for train_method: KNearestNeighbours | sampling_method: SMOTE-TOMEK
+[2024-03-22 19:58:00] [INFO] - 
+
+Start calculating metrics for train_method: KNearestNeighbours | sampling_method: SMOTE-ENN
+[2024-03-22 19:58:00] [INFO] - 
+
+Start calculating metrics for train_method: RandomForest | sampling_method: None
+[2024-03-22 19:58:01] [INFO] - 
+
+Start calculating metrics for train_method: RandomForest | sampling_method: RandomUnder
+[2024-03-22 19:58:01] [INFO] - 
+
+Start calculating metrics for train_method: RandomForest | sampling_method: ENN
+[2024-03-22 19:58:01] [INFO] - 
+
+Start calculating metrics for train_method: RandomForest | sampling_method: NCR
+[2024-03-22 19:58:01] [INFO] - 
+
+Start calculating metrics for train_method: RandomForest | sampling_method: TomekLinks
+[2024-03-22 19:58:01] [INFO] - 
+
+Start calculating metrics for train_method: RandomForest | sampling_method: RandomOver
+[2024-03-22 19:58:01] [INFO] - 
+
+Start calculating metrics for train_method: RandomForest | sampling_method: SMOTE
+[2024-03-22 19:58:02] [INFO] - 
+
+Start calculating metrics for train_method: RandomForest | sampling_method: ADASYS
+[2024-03-22 19:58:02] [INFO] - 
+
+Start calculating metrics for train_method: RandomForest | sampling_method: KMeansSMOTE
+[2024-03-22 19:58:02] [INFO] - 
+
+Start calculating metrics for train_method: RandomForest | sampling_method: SMOTE-TOMEK
+[2024-03-22 19:58:02] [INFO] - 
+
+Start calculating metrics for train_method: RandomForest | sampling_method: SMOTE-ENN
+[2024-03-22 19:58:02] [INFO] - 
+
+Start calculating metrics for train_method: MLP | sampling_method: None
+[2024-03-22 19:58:03] [INFO] - 
+
+Start calculating metrics for train_method: MLP | sampling_method: RandomUnder
+[2024-03-22 19:58:03] [INFO] - 
+
+Start calculating metrics for train_method: MLP | sampling_method: ENN
+[2024-03-22 19:58:03] [INFO] - 
+
+Start calculating metrics for train_method: MLP | sampling_method: NCR
+[2024-03-22 19:58:03] [INFO] - 
+
+Start calculating metrics for train_method: MLP | sampling_method: TomekLinks
+[2024-03-22 19:58:03] [INFO] - 
+
+Start calculating metrics for train_method: MLP | sampling_method: RandomOver
+[2024-03-22 19:58:03] [INFO] - 
+
+Start calculating metrics for train_method: MLP | sampling_method: SMOTE
+[2024-03-22 19:58:03] [INFO] - 
+
+Start calculating metrics for train_method: MLP | sampling_method: ADASYS
+[2024-03-22 19:58:03] [INFO] - 
+
+Start calculating metrics for train_method: MLP | sampling_method: KMeansSMOTE
+[2024-03-22 19:58:03] [INFO] - 
+
+Start calculating metrics for train_method: MLP | sampling_method: SMOTE-TOMEK
+[2024-03-22 19:58:04] [INFO] - 
+
+Start calculating metrics for train_method: MLP | sampling_method: SMOTE-ENN
+[2024-03-22 19:58:04] [INFO] - 
+
+Start calculating metrics for train_method: MLP-Cost | sampling_method: None
+[2024-03-22 19:58:04] [INFO] - 
+
+Start calculating metrics for train_method: MLP-Cost | sampling_method: RandomUnder
+[2024-03-22 19:58:04] [INFO] - 
+
+Start calculating metrics for train_method: MLP-Cost | sampling_method: ENN
+[2024-03-22 19:58:04] [INFO] - 
+
+Start calculating metrics for train_method: MLP-Cost | sampling_method: NCR
+[2024-03-22 19:58:04] [INFO] - 
+
+Start calculating metrics for train_method: MLP-Cost | sampling_method: TomekLinks
+[2024-03-22 19:58:04] [INFO] - 
+
+Start calculating metrics for train_method: MLP-Cost | sampling_method: RandomOver
+[2024-03-22 19:58:04] [INFO] - 
+
+Start calculating metrics for train_method: MLP-Cost | sampling_method: SMOTE
+[2024-03-22 19:58:04] [INFO] - 
+
+Start calculating metrics for train_method: MLP-Cost | sampling_method: ADASYS
+[2024-03-22 19:58:04] [INFO] - 
+
+Start calculating metrics for train_method: MLP-Cost | sampling_method: KMeansSMOTE
+[2024-03-22 19:58:04] [INFO] - 
+
+Start calculating metrics for train_method: MLP-Cost | sampling_method: SMOTE-TOMEK
+[2024-03-22 19:58:04] [INFO] - 
+
+Start calculating metrics for train_method: MLP-Cost | sampling_method: SMOTE-ENN

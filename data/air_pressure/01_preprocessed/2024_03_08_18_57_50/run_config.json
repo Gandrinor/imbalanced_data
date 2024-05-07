@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "data_path": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data"
+    },
+    "routing": {
+        "data_sets": [
+            "air_pressure"
+        ],
+        "steps": [
+            "preprocessing"
+        ],
+        "previous_step_date": null,
+        "sampling_methods": [
+            "none",
+            "RandomUnder",
+            "ENN",
+            "NCR",
+            "TomekLinks",
+            "RandomOver",
+            "SMOTE",
+            "ADASYS",
+            "KMeansSMOTE",
+            "SMOTE-TOMEK",
+            "SMOTE-ENN"
+        ],
+        "training_methods": [
+            "LogisticRegression",
+            "SVM",
+            "KNearestNeighbours",
+            "RandomForest",
+            "MLP",
+            "MLP-Cost"
+        ],
+        "metrics": [
+            "accuracy",
+            "balanced_accuracy",
+            "precision",
+            "recall",
+            "f1"
+        ]
+    },
+    "preprocessing": {},
+    "sampling": {},
+    "training": {},
+    "metric": {}
+}

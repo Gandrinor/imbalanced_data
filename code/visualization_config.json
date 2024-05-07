@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "previous_metric_step_date": {
+      "air_pressure": "2024_05_04_14_01_32",
+      "stroke": "2024_05_04_14_09_03"
+    },
+    "visualization_root_dir": "..\\data\\visualization",
+    "data_path": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data",
+    "file_format": "svg"
+  },
+  "selection": {
+    "data_sets": [
+      "air_pressure",
+      "stroke"
+    ],
+    "sampling_methods": [
+      "None",
+      "RandomUnder",
+      "ENN",
+      "NCR",
+      "TomekLinks",
+      "RandomOver",
+      "SMOTE",
+      "ADASYS",
+      "KMeansSMOTE",
+      "SMOTE-TOMEK",
+      "SMOTE-ENN"
+
+    ],
+    "training_methods": [
+      "LogisticRegression",
+      "SVM",
+      "KNearestNeighbours",
+      "RandomForest",
+      "MLP",
+      "MLP-Cost",
+       "MLP-Cost-IR"
+    ],
+    "metrics": [
+      "Cost",
+      "G-Mean",
+      "F1",
+      "Balanced-Acc",
+      "Accuracy",
+      "Precision",
+      "Recall",
+      "AUROC",
+      "AUPR"
+    ]
+  },
+  "categories": {
+    "global_dim": [
+      "sampling",
+      "training",
+      "dataset"
+    ],
+    "merged_dim": [
+      "dataset_sampling",
+      "dataset_training",
+      "training_sampling"
+    ],
+    "dataset_dim": {
+      "single": [
+        "training"
+      ],
+      "matrix": [
+        "training_sampling",
+        "sampling_training"
+      ]
+    }
+  }
+}

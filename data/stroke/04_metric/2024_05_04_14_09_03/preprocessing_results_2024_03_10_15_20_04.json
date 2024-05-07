@@ -1,0 +1,116 @@
+{
+    "values": {
+        "fold-0": {
+            "train": {
+                "pos_count": 167,
+                "neg_count": 3760,
+                "pos_percentage": "0.04",
+                "neg_percentage": "0.96",
+                "neg_pos_ratio": 22.51497005988024
+            },
+            "test": {
+                "pos_count": 42,
+                "neg_count": 940,
+                "pos_percentage": "0.04",
+                "neg_percentage": "0.96",
+                "neg_pos_ratio": 22.38095238095238
+            }
+        },
+        "fold-1": {
+            "train": {
+                "pos_count": 167,
+                "neg_count": 3760,
+                "pos_percentage": "0.04",
+                "neg_percentage": "0.96",
+                "neg_pos_ratio": 22.51497005988024
+            },
+            "test": {
+                "pos_count": 42,
+                "neg_count": 940,
+                "pos_percentage": "0.04",
+                "neg_percentage": "0.96",
+                "neg_pos_ratio": 22.38095238095238
+            }
+        },
+        "fold-2": {
+            "train": {
+                "pos_count": 167,
+                "neg_count": 3760,
+                "pos_percentage": "0.04",
+                "neg_percentage": "0.96",
+                "neg_pos_ratio": 22.51497005988024
+            },
+            "test": {
+                "pos_count": 42,
+                "neg_count": 940,
+                "pos_percentage": "0.04",
+                "neg_percentage": "0.96",
+                "neg_pos_ratio": 22.38095238095238
+            }
+        },
+        "fold-3": {
+            "train": {
+                "pos_count": 167,
+                "neg_count": 3760,
+                "pos_percentage": "0.04",
+                "neg_percentage": "0.96",
+                "neg_pos_ratio": 22.51497005988024
+            },
+            "test": {
+                "pos_count": 42,
+                "neg_count": 940,
+                "pos_percentage": "0.04",
+                "neg_percentage": "0.96",
+                "neg_pos_ratio": 22.38095238095238
+            }
+        },
+        "fold-4": {
+            "train": {
+                "pos_count": 168,
+                "neg_count": 3760,
+                "pos_percentage": "0.04",
+                "neg_percentage": "0.96",
+                "neg_pos_ratio": 22.38095238095238
+            },
+            "test": {
+                "pos_count": 41,
+                "neg_count": 940,
+                "pos_percentage": "0.04",
+                "neg_percentage": "0.96",
+                "neg_pos_ratio": 22.926829268292682
+            }
+        }
+    },
+    "paths": {
+        "fold-0": {
+            "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-0_train_features.npy",
+            "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-0_train_labels.npy",
+            "test_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-0_test_features.npy",
+            "test_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-0_test_labels.npy"
+        },
+        "fold-1": {
+            "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-1_train_features.npy",
+            "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-1_train_labels.npy",
+            "test_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-1_test_features.npy",
+            "test_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-1_test_labels.npy"
+        },
+        "fold-2": {
+            "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-2_train_features.npy",
+            "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-2_train_labels.npy",
+            "test_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-2_test_features.npy",
+            "test_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-2_test_labels.npy"
+        },
+        "fold-3": {
+            "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-3_train_features.npy",
+            "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-3_train_labels.npy",
+            "test_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-3_test_features.npy",
+            "test_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-3_test_labels.npy"
+        },
+        "fold-4": {
+            "train_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-4_train_features.npy",
+            "train_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-4_train_labels.npy",
+            "test_features": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-4_test_features.npy",
+            "test_labels": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data\\stroke\\01_preprocessed\\2024_03_10_15_20_04\\fold-4_test_labels.npy"
+        }
+    }
+}

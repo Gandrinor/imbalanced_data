@@ -1,0 +1,147 @@
+[2024-03-08 18:57:50] [INFO] - 
+Starting Simulation for dataset:air_pressure and steps: preprocessing
+[2024-03-08 18:57:50] [INFO] - 
+Begin processing step: preprocessing
+start time: 2024_03_08_18_57_50
+[2024-03-08 18:57:50] [INFO] - 
+Created LOG file at: D:\Programming\PycharmProjects\ba\imbalanced_data\data\air_pressure\01_preprocessed\2024_03_08_18_57_50\preprocessing_log.log
+[2024-03-08 18:57:50] [INFO] - Start processing data for dataset air_pressure and : preprocessing
+ start time: 2024_03_08_18_57_50
+[2024-03-08 18:57:50] [INFO] - Loading raw data for dataset: air_pressure
+[2024-03-08 18:57:50] [INFO] - Partially dropping columns
+[2024-03-08 18:57:50] [INFO] - Start splitting data into folds
+[2024-03-08 18:57:51] [INFO] - 
+
+Fold 0:
+Train / Test data frequencies
+
+{
+    "train": {
+        "pos_count": 1100,
+        "neg_count": 59700,
+        "pos_percentage": "0.02",
+        "neg_percentage": "0.98",
+        "neg_pos_ratio": 54.27272727272727
+    },
+    "test": {
+        "pos_count": 275,
+        "neg_count": 14925,
+        "pos_percentage": "0.02",
+        "neg_percentage": "0.98",
+        "neg_pos_ratio": 54.27272727272727
+    }
+}
+[2024-03-08 18:57:51] [INFO] - fold 0: scale data
+[2024-03-08 18:57:51] [INFO] - fold 0: impute data
+[2024-03-08 18:57:51] [INFO] - fit imputer with train data
+[2024-03-08 18:57:51] [INFO] - impute train data
+[2024-03-08 19:06:54] [INFO] - impute test data
+[2024-03-08 19:10:03] [INFO] - fold 0: save train and test data
+[2024-03-08 19:10:04] [INFO] - 
+
+Fold 1:
+Train / Test data frequencies
+
+{
+    "train": {
+        "pos_count": 1100,
+        "neg_count": 59700,
+        "pos_percentage": "0.02",
+        "neg_percentage": "0.98",
+        "neg_pos_ratio": 54.27272727272727
+    },
+    "test": {
+        "pos_count": 275,
+        "neg_count": 14925,
+        "pos_percentage": "0.02",
+        "neg_percentage": "0.98",
+        "neg_pos_ratio": 54.27272727272727
+    }
+}
+[2024-03-08 19:10:04] [INFO] - fold 1: scale data
+[2024-03-08 19:10:04] [INFO] - fold 1: impute data
+[2024-03-08 19:10:04] [INFO] - fit imputer with train data
+[2024-03-08 19:10:04] [INFO] - impute train data
+[2024-03-08 19:22:54] [INFO] - impute test data
+[2024-03-08 19:26:07] [INFO] - fold 1: save train and test data
+[2024-03-08 19:26:07] [INFO] - 
+
+Fold 2:
+Train / Test data frequencies
+
+{
+    "train": {
+        "pos_count": 1100,
+        "neg_count": 59700,
+        "pos_percentage": "0.02",
+        "neg_percentage": "0.98",
+        "neg_pos_ratio": 54.27272727272727
+    },
+    "test": {
+        "pos_count": 275,
+        "neg_count": 14925,
+        "pos_percentage": "0.02",
+        "neg_percentage": "0.98",
+        "neg_pos_ratio": 54.27272727272727
+    }
+}
+[2024-03-08 19:26:07] [INFO] - fold 2: scale data
+[2024-03-08 19:26:07] [INFO] - fold 2: impute data
+[2024-03-08 19:26:07] [INFO] - fit imputer with train data
+[2024-03-08 19:26:07] [INFO] - impute train data
+[2024-03-08 19:39:00] [INFO] - impute test data
+[2024-03-08 19:42:10] [INFO] - fold 2: save train and test data
+[2024-03-08 19:42:10] [INFO] - 
+
+Fold 3:
+Train / Test data frequencies
+
+{
+    "train": {
+        "pos_count": 1100,
+        "neg_count": 59700,
+        "pos_percentage": "0.02",
+        "neg_percentage": "0.98",
+        "neg_pos_ratio": 54.27272727272727
+    },
+    "test": {
+        "pos_count": 275,
+        "neg_count": 14925,
+        "pos_percentage": "0.02",
+        "neg_percentage": "0.98",
+        "neg_pos_ratio": 54.27272727272727
+    }
+}
+[2024-03-08 19:42:10] [INFO] - fold 3: scale data
+[2024-03-08 19:42:10] [INFO] - fold 3: impute data
+[2024-03-08 19:42:10] [INFO] - fit imputer with train data
+[2024-03-08 19:42:10] [INFO] - impute train data
+[2024-03-08 19:54:35] [INFO] - impute test data
+[2024-03-08 19:56:51] [INFO] - fold 3: save train and test data
+[2024-03-08 19:56:51] [INFO] - 
+
+Fold 4:
+Train / Test data frequencies
+
+{
+    "train": {
+        "pos_count": 1100,
+        "neg_count": 59700,
+        "pos_percentage": "0.02",
+        "neg_percentage": "0.98",
+        "neg_pos_ratio": 54.27272727272727
+    },
+    "test": {
+        "pos_count": 275,
+        "neg_count": 14925,
+        "pos_percentage": "0.02",
+        "neg_percentage": "0.98",
+        "neg_pos_ratio": 54.27272727272727
+    }
+}
+[2024-03-08 19:56:51] [INFO] - fold 4: scale data
+[2024-03-08 19:56:51] [INFO] - fold 4: impute data
+[2024-03-08 19:56:51] [INFO] - fit imputer with train data
+[2024-03-08 19:56:51] [INFO] - impute train data
+[2024-03-08 20:05:58] [INFO] - impute test data
+[2024-03-08 20:08:17] [INFO] - fold 4: save train and test data

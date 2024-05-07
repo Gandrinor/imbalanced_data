@@ -1,0 +1,790 @@
+[2024-03-10 17:33:25] [INFO] - 
+Starting Simulation for dataset:air_pressure and steps: sampling
+[2024-03-10 17:33:25] [INFO] - 
+Begin processing step: sampling
+start time: 2024_03_10_17_33_25
+[2024-03-10 17:33:25] [INFO] - 
+Created LOG file at: D:\Programming\PycharmProjects\ba\imbalanced_data\data\air_pressure\02_sampled\2024_03_10_17_33_25\sampling_log.log
+[2024-03-10 17:33:25] [INFO] - Start processing data for dataset air_pressure and : sampling
+ start time: 2024_03_10_17_33_25
+[2024-03-10 17:33:25] [INFO] - Start sampling data with method: None
+[2024-03-10 17:33:25] [INFO] - Fold 0: resample train data
+[2024-03-10 17:33:25] [INFO] - 
+
+Sampling Method: None | Fold 0:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59700,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 54.27272727272727
+}
+[2024-03-10 17:33:25] [INFO] - Fold 0: save resampled train data
+[2024-03-10 17:33:25] [INFO] - Fold 1: resample train data
+[2024-03-10 17:33:25] [INFO] - 
+
+Sampling Method: None | Fold 1:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59700,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 54.27272727272727
+}
+[2024-03-10 17:33:25] [INFO] - Fold 1: save resampled train data
+[2024-03-10 17:33:25] [INFO] - Fold 2: resample train data
+[2024-03-10 17:33:25] [INFO] - 
+
+Sampling Method: None | Fold 2:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59700,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 54.27272727272727
+}
+[2024-03-10 17:33:25] [INFO] - Fold 2: save resampled train data
+[2024-03-10 17:33:25] [INFO] - Fold 3: resample train data
+[2024-03-10 17:33:25] [INFO] - 
+
+Sampling Method: None | Fold 3:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59700,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 54.27272727272727
+}
+[2024-03-10 17:33:25] [INFO] - Fold 3: save resampled train data
+[2024-03-10 17:33:25] [INFO] - Fold 4: resample train data
+[2024-03-10 17:33:25] [INFO] - 
+
+Sampling Method: None | Fold 4:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59700,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 54.27272727272727
+}
+[2024-03-10 17:33:25] [INFO] - Fold 4: save resampled train data
+[2024-03-10 17:33:25] [INFO] - Start sampling data with method: RandomUnder
+[2024-03-10 17:33:25] [INFO] - Fold 0: resample train data
+[2024-03-10 17:33:25] [INFO] - 
+
+Sampling Method: RandomUnder | Fold 0:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 1100,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:33:25] [INFO] - Fold 0: save resampled train data
+[2024-03-10 17:33:25] [INFO] - Fold 1: resample train data
+[2024-03-10 17:33:25] [INFO] - 
+
+Sampling Method: RandomUnder | Fold 1:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 1100,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:33:25] [INFO] - Fold 1: save resampled train data
+[2024-03-10 17:33:25] [INFO] - Fold 2: resample train data
+[2024-03-10 17:33:25] [INFO] - 
+
+Sampling Method: RandomUnder | Fold 2:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 1100,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:33:25] [INFO] - Fold 2: save resampled train data
+[2024-03-10 17:33:25] [INFO] - Fold 3: resample train data
+[2024-03-10 17:33:25] [INFO] - 
+
+Sampling Method: RandomUnder | Fold 3:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 1100,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:33:25] [INFO] - Fold 3: save resampled train data
+[2024-03-10 17:33:25] [INFO] - Fold 4: resample train data
+[2024-03-10 17:33:25] [INFO] - 
+
+Sampling Method: RandomUnder | Fold 4:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 1100,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:33:25] [INFO] - Fold 4: save resampled train data
+[2024-03-10 17:33:25] [INFO] - Start sampling data with method: ENN
+[2024-03-10 17:33:25] [INFO] - Fold 0: resample train data
+[2024-03-10 17:33:30] [INFO] - 
+
+Sampling Method: ENN | Fold 0:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59078,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 53.70727272727273
+}
+[2024-03-10 17:33:30] [INFO] - Fold 0: save resampled train data
+[2024-03-10 17:33:30] [INFO] - Fold 1: resample train data
+[2024-03-10 17:33:35] [INFO] - 
+
+Sampling Method: ENN | Fold 1:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59064,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 53.694545454545455
+}
+[2024-03-10 17:33:35] [INFO] - Fold 1: save resampled train data
+[2024-03-10 17:33:35] [INFO] - Fold 2: resample train data
+[2024-03-10 17:33:40] [INFO] - 
+
+Sampling Method: ENN | Fold 2:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59052,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 53.68363636363637
+}
+[2024-03-10 17:33:40] [INFO] - Fold 2: save resampled train data
+[2024-03-10 17:33:40] [INFO] - Fold 3: resample train data
+[2024-03-10 17:33:45] [INFO] - 
+
+Sampling Method: ENN | Fold 3:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59087,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 53.71545454545455
+}
+[2024-03-10 17:33:45] [INFO] - Fold 3: save resampled train data
+[2024-03-10 17:33:45] [INFO] - Fold 4: resample train data
+[2024-03-10 17:33:50] [INFO] - 
+
+Sampling Method: ENN | Fold 4:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59033,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 53.666363636363634
+}
+[2024-03-10 17:33:50] [INFO] - Fold 4: save resampled train data
+[2024-03-10 17:33:50] [INFO] - Start sampling data with method: NCR
+[2024-03-10 17:33:50] [INFO] - Fold 0: resample train data
+[2024-03-10 17:33:57] [INFO] - 
+
+Sampling Method: NCR | Fold 0:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 58790,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 53.445454545454545
+}
+[2024-03-10 17:33:57] [INFO] - Fold 0: save resampled train data
+[2024-03-10 17:33:57] [INFO] - Fold 1: resample train data
+[2024-03-10 17:34:03] [INFO] - 
+
+Sampling Method: NCR | Fold 1:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 58898,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 53.54363636363637
+}
+[2024-03-10 17:34:03] [INFO] - Fold 1: save resampled train data
+[2024-03-10 17:34:03] [INFO] - Fold 2: resample train data
+[2024-03-10 17:34:09] [INFO] - 
+
+Sampling Method: NCR | Fold 2:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 58797,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 53.45181818181818
+}
+[2024-03-10 17:34:09] [INFO] - Fold 2: save resampled train data
+[2024-03-10 17:34:09] [INFO] - Fold 3: resample train data
+[2024-03-10 17:34:15] [INFO] - 
+
+Sampling Method: NCR | Fold 3:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 58846,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 53.49636363636364
+}
+[2024-03-10 17:34:15] [INFO] - Fold 3: save resampled train data
+[2024-03-10 17:34:15] [INFO] - Fold 4: resample train data
+[2024-03-10 17:34:21] [INFO] - 
+
+Sampling Method: NCR | Fold 4:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 58807,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 53.46090909090909
+}
+[2024-03-10 17:34:21] [INFO] - Fold 4: save resampled train data
+[2024-03-10 17:34:21] [INFO] - Start sampling data with method: TomekLinks
+[2024-03-10 17:34:21] [INFO] - Fold 0: resample train data
+[2024-03-10 17:34:27] [INFO] - 
+
+Sampling Method: TomekLinks | Fold 0:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59628,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 54.20727272727273
+}
+[2024-03-10 17:34:27] [INFO] - Fold 0: save resampled train data
+[2024-03-10 17:34:27] [INFO] - Fold 1: resample train data
+[2024-03-10 17:34:32] [INFO] - 
+
+Sampling Method: TomekLinks | Fold 1:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59642,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 54.22
+}
+[2024-03-10 17:34:32] [INFO] - Fold 1: save resampled train data
+[2024-03-10 17:34:32] [INFO] - Fold 2: resample train data
+[2024-03-10 17:34:37] [INFO] - 
+
+Sampling Method: TomekLinks | Fold 2:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59623,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 54.20272727272727
+}
+[2024-03-10 17:34:37] [INFO] - Fold 2: save resampled train data
+[2024-03-10 17:34:37] [INFO] - Fold 3: resample train data
+[2024-03-10 17:34:43] [INFO] - 
+
+Sampling Method: TomekLinks | Fold 3:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59632,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 54.21090909090909
+}
+[2024-03-10 17:34:43] [INFO] - Fold 3: save resampled train data
+[2024-03-10 17:34:43] [INFO] - Fold 4: resample train data
+[2024-03-10 17:34:48] [INFO] - 
+
+Sampling Method: TomekLinks | Fold 4:
+Train data frequencies
+
+{
+    "pos_count": 1100,
+    "neg_count": 59614,
+    "pos_percentage": "0.02",
+    "neg_percentage": "0.98",
+    "neg_pos_ratio": 54.194545454545455
+}
+[2024-03-10 17:34:48] [INFO] - Fold 4: save resampled train data
+[2024-03-10 17:34:48] [INFO] - Start sampling data with method: RandomOver
+[2024-03-10 17:34:48] [INFO] - Fold 0: resample train data
+[2024-03-10 17:34:48] [INFO] - 
+
+Sampling Method: RandomOver | Fold 0:
+Train data frequencies
+
+{
+    "pos_count": 59700,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:34:48] [INFO] - Fold 0: save resampled train data
+[2024-03-10 17:34:48] [INFO] - Fold 1: resample train data
+[2024-03-10 17:34:49] [INFO] - 
+
+Sampling Method: RandomOver | Fold 1:
+Train data frequencies
+
+{
+    "pos_count": 59700,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:34:49] [INFO] - Fold 1: save resampled train data
+[2024-03-10 17:34:49] [INFO] - Fold 2: resample train data
+[2024-03-10 17:34:49] [INFO] - 
+
+Sampling Method: RandomOver | Fold 2:
+Train data frequencies
+
+{
+    "pos_count": 59700,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:34:49] [INFO] - Fold 2: save resampled train data
+[2024-03-10 17:34:49] [INFO] - Fold 3: resample train data
+[2024-03-10 17:34:49] [INFO] - 
+
+Sampling Method: RandomOver | Fold 3:
+Train data frequencies
+
+{
+    "pos_count": 59700,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:34:49] [INFO] - Fold 3: save resampled train data
+[2024-03-10 17:34:49] [INFO] - Fold 4: resample train data
+[2024-03-10 17:34:49] [INFO] - 
+
+Sampling Method: RandomOver | Fold 4:
+Train data frequencies
+
+{
+    "pos_count": 59700,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:34:49] [INFO] - Fold 4: save resampled train data
+[2024-03-10 17:34:49] [INFO] - Start sampling data with method: SMOTE
+[2024-03-10 17:34:49] [INFO] - Fold 0: resample train data
+[2024-03-10 17:34:49] [INFO] - 
+
+Sampling Method: SMOTE | Fold 0:
+Train data frequencies
+
+{
+    "pos_count": 59700,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:34:49] [INFO] - Fold 0: save resampled train data
+[2024-03-10 17:34:49] [INFO] - Fold 1: resample train data
+[2024-03-10 17:34:50] [INFO] - 
+
+Sampling Method: SMOTE | Fold 1:
+Train data frequencies
+
+{
+    "pos_count": 59700,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:34:50] [INFO] - Fold 1: save resampled train data
+[2024-03-10 17:34:50] [INFO] - Fold 2: resample train data
+[2024-03-10 17:34:50] [INFO] - 
+
+Sampling Method: SMOTE | Fold 2:
+Train data frequencies
+
+{
+    "pos_count": 59700,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:34:50] [INFO] - Fold 2: save resampled train data
+[2024-03-10 17:34:50] [INFO] - Fold 3: resample train data
+[2024-03-10 17:34:50] [INFO] - 
+
+Sampling Method: SMOTE | Fold 3:
+Train data frequencies
+
+{
+    "pos_count": 59700,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:34:50] [INFO] - Fold 3: save resampled train data
+[2024-03-10 17:34:50] [INFO] - Fold 4: resample train data
+[2024-03-10 17:34:50] [INFO] - 
+
+Sampling Method: SMOTE | Fold 4:
+Train data frequencies
+
+{
+    "pos_count": 59700,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:34:50] [INFO] - Fold 4: save resampled train data
+[2024-03-10 17:34:50] [INFO] - Start sampling data with method: ADASYS
+[2024-03-10 17:34:50] [INFO] - Fold 0: resample train data
+[2024-03-10 17:34:51] [INFO] - 
+
+Sampling Method: ADASYS | Fold 0:
+Train data frequencies
+
+{
+    "pos_count": 59940,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 0.995995995995996
+}
+[2024-03-10 17:34:51] [INFO] - Fold 0: save resampled train data
+[2024-03-10 17:34:51] [INFO] - Fold 1: resample train data
+[2024-03-10 17:34:51] [INFO] - 
+
+Sampling Method: ADASYS | Fold 1:
+Train data frequencies
+
+{
+    "pos_count": 59609,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0015266151084568
+}
+[2024-03-10 17:34:51] [INFO] - Fold 1: save resampled train data
+[2024-03-10 17:34:51] [INFO] - Fold 2: resample train data
+[2024-03-10 17:34:52] [INFO] - 
+
+Sampling Method: ADASYS | Fold 2:
+Train data frequencies
+
+{
+    "pos_count": 59534,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.002788322639164
+}
+[2024-03-10 17:34:52] [INFO] - Fold 2: save resampled train data
+[2024-03-10 17:34:52] [INFO] - Fold 3: resample train data
+[2024-03-10 17:34:52] [INFO] - 
+
+Sampling Method: ADASYS | Fold 3:
+Train data frequencies
+
+{
+    "pos_count": 59813,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 0.9981107785932823
+}
+[2024-03-10 17:34:52] [INFO] - Fold 3: save resampled train data
+[2024-03-10 17:34:52] [INFO] - Fold 4: resample train data
+[2024-03-10 17:34:52] [INFO] - 
+
+Sampling Method: ADASYS | Fold 4:
+Train data frequencies
+
+{
+    "pos_count": 59690,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0001675322499581
+}
+[2024-03-10 17:34:52] [INFO] - Fold 4: save resampled train data
+[2024-03-10 17:34:52] [INFO] - Start sampling data with method: KMeansSMOTE
+[2024-03-10 17:34:52] [INFO] - Fold 0: resample train data
+[2024-03-10 17:34:53] [INFO] - 
+
+Sampling Method: KMeansSMOTE | Fold 0:
+Train data frequencies
+
+{
+    "pos_count": 59700,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:34:53] [INFO] - Fold 0: save resampled train data
+[2024-03-10 17:34:53] [INFO] - Fold 1: resample train data
+[2024-03-10 17:34:53] [INFO] - 
+
+Sampling Method: KMeansSMOTE | Fold 1:
+Train data frequencies
+
+{
+    "pos_count": 59701,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 0.9999832498618113
+}
+[2024-03-10 17:34:53] [INFO] - Fold 1: save resampled train data
+[2024-03-10 17:34:53] [INFO] - Fold 2: resample train data
+[2024-03-10 17:34:54] [INFO] - 
+
+Sampling Method: KMeansSMOTE | Fold 2:
+Train data frequencies
+
+{
+    "pos_count": 59700,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:34:54] [INFO] - Fold 2: save resampled train data
+[2024-03-10 17:34:54] [INFO] - Fold 3: resample train data
+[2024-03-10 17:34:54] [INFO] - 
+
+Sampling Method: KMeansSMOTE | Fold 3:
+Train data frequencies
+
+{
+    "pos_count": 59700,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:34:54] [INFO] - Fold 3: save resampled train data
+[2024-03-10 17:34:54] [INFO] - Fold 4: resample train data
+[2024-03-10 17:34:55] [INFO] - 
+
+Sampling Method: KMeansSMOTE | Fold 4:
+Train data frequencies
+
+{
+    "pos_count": 59700,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0
+}
+[2024-03-10 17:34:55] [INFO] - Fold 4: save resampled train data
+[2024-03-10 17:34:55] [INFO] - Start sampling data with method: SMOTE-TOMEK
+[2024-03-10 17:34:55] [INFO] - Fold 0: resample train data
+[2024-03-10 17:35:14] [INFO] - 
+
+Sampling Method: SMOTE-TOMEK | Fold 0:
+Train data frequencies
+
+{
+    "pos_count": 59699,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0000167506993416
+}
+[2024-03-10 17:35:14] [INFO] - Fold 0: save resampled train data
+[2024-03-10 17:35:14] [INFO] - Fold 1: resample train data
+[2024-03-10 17:35:34] [INFO] - 
+
+Sampling Method: SMOTE-TOMEK | Fold 1:
+Train data frequencies
+
+{
+    "pos_count": 59689,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0001842885623817
+}
+[2024-03-10 17:35:34] [INFO] - Fold 1: save resampled train data
+[2024-03-10 17:35:34] [INFO] - Fold 2: resample train data
+[2024-03-10 17:35:54] [INFO] - 
+
+Sampling Method: SMOTE-TOMEK | Fold 2:
+Train data frequencies
+
+{
+    "pos_count": 59689,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0001842885623817
+}
+[2024-03-10 17:35:54] [INFO] - Fold 2: save resampled train data
+[2024-03-10 17:35:54] [INFO] - Fold 3: resample train data
+[2024-03-10 17:36:13] [INFO] - 
+
+Sampling Method: SMOTE-TOMEK | Fold 3:
+Train data frequencies
+
+{
+    "pos_count": 59697,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0000502537815972
+}
+[2024-03-10 17:36:13] [INFO] - Fold 3: save resampled train data
+[2024-03-10 17:36:13] [INFO] - Fold 4: resample train data
+[2024-03-10 17:36:33] [INFO] - 
+
+Sampling Method: SMOTE-TOMEK | Fold 4:
+Train data frequencies
+
+{
+    "pos_count": 59697,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0000502537815972
+}
+[2024-03-10 17:36:33] [INFO] - Fold 4: save resampled train data
+[2024-03-10 17:36:33] [INFO] - Start sampling data with method: SMOTE-ENN
+[2024-03-10 17:36:33] [INFO] - Fold 0: resample train data
+[2024-03-10 17:36:43] [INFO] - 
+
+Sampling Method: SMOTE-ENN | Fold 0:
+Train data frequencies
+
+{
+    "pos_count": 59612,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0014762128430517
+}
+[2024-03-10 17:36:43] [INFO] - Fold 0: save resampled train data
+[2024-03-10 17:36:43] [INFO] - Fold 1: resample train data
+[2024-03-10 17:36:53] [INFO] - 
+
+Sampling Method: SMOTE-ENN | Fold 1:
+Train data frequencies
+
+{
+    "pos_count": 59605,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0015938260213069
+}
+[2024-03-10 17:36:53] [INFO] - Fold 1: save resampled train data
+[2024-03-10 17:36:53] [INFO] - Fold 2: resample train data
+[2024-03-10 17:37:03] [INFO] - 
+
+Sampling Method: SMOTE-ENN | Fold 2:
+Train data frequencies
+
+{
+    "pos_count": 59601,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0016610459556048
+}
+[2024-03-10 17:37:03] [INFO] - Fold 2: save resampled train data
+[2024-03-10 17:37:03] [INFO] - Fold 3: resample train data
+[2024-03-10 17:37:13] [INFO] - 
+
+Sampling Method: SMOTE-ENN | Fold 3:
+Train data frequencies
+
+{
+    "pos_count": 59652,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0008046670690003
+}
+[2024-03-10 17:37:13] [INFO] - Fold 3: save resampled train data
+[2024-03-10 17:37:14] [INFO] - Fold 4: resample train data
+[2024-03-10 17:37:24] [INFO] - 
+
+Sampling Method: SMOTE-ENN | Fold 4:
+Train data frequencies
+
+{
+    "pos_count": 59652,
+    "neg_count": 59700,
+    "pos_percentage": "0.50",
+    "neg_percentage": "0.50",
+    "neg_pos_ratio": 1.0008046670690003
+}
+[2024-03-10 17:37:24] [INFO] - Fold 4: save resampled train data

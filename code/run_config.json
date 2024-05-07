@@ -1,0 +1,53 @@
+{
+    "meta": {
+        "data_path": "D:\\Programming\\PycharmProjects\\ba\\imbalanced_data\\data"
+    },
+    "routing": {
+        "data_sets": ["stroke"],
+        "steps": ["metric"],
+        "previous_step_date": {
+            "air_pressure": "2024_03_16_20_30_22",
+            "stroke": "2024_03_16_22_00_08"
+        },
+        "sampling_methods": ["None", "RandomUnder", "ENN", "NCR", "TomekLinks", "RandomOver","SMOTE", "ADASYS", "KMeansSMOTE", "SMOTE-TOMEK", "SMOTE-ENN"],
+        "training_methods": ["LogisticRegression", "SVM", "KNearestNeighbours", "RandomForest", "MLP", "MLP-Cost", "MLP-Cost-IR"],
+        "metrics": {
+            "single": [
+                "Cost",
+                "G-Mean",
+                "F1",
+                "Balanced-Acc",
+                "Accuracy",
+                "Precision",
+                "Recall",
+                "AUROC",
+                "AUPR"
+            ],
+            "macro_avg": [
+            ]
+        }
+    },
+    "preprocessing": {},
+    "sampling": {
+        "KMeansSMOTE" :  {
+            "cluster_balance_threshold": 0.05
+        }
+    },
+    "training": {
+        "MLP": {
+            "pickTorchModel": true,
+            "torch_seed": 1337,
+            "device_id": "cuda",
+            "activation": "relu",
+            "loss_function": "nlll"
+        },
+        "MLP-Cost":{
+            "pickTorchModel": true,
+            "torch_seed": 1337,
+            "device_id": "cuda",
+            "activation": "relu",
+            "loss_function": "nlll"
+        }
+    },
+    "metric": {}
+}

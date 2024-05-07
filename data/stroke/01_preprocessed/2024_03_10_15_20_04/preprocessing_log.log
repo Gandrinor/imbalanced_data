@@ -1,0 +1,127 @@
+[2024-03-10 15:20:04] [INFO] - 
+Starting Simulation for dataset:stroke and steps: preprocessing
+[2024-03-10 15:20:04] [INFO] - 
+Begin processing step: preprocessing
+start time: 2024_03_10_15_20_04
+[2024-03-10 15:20:04] [INFO] - 
+Created LOG file at: D:\Programming\PycharmProjects\ba\imbalanced_data\data\stroke\01_preprocessed\2024_03_10_15_20_04\preprocessing_log.log
+[2024-03-10 15:20:04] [INFO] - Start processing data for dataset stroke and : preprocessing
+ start time: 2024_03_10_15_20_04
+[2024-03-10 15:20:04] [INFO] - Loading raw data for dataset: stroke
+[2024-03-10 15:20:04] [INFO] - Partially dropping columns
+[2024-03-10 15:20:04] [INFO] - Start splitting data into folds
+[2024-03-10 15:20:04] [INFO] - 
+
+Fold 0:
+Train / Test data frequencies
+
+{
+    "train": {
+        "pos_count": 167,
+        "neg_count": 3760,
+        "pos_percentage": "0.04",
+        "neg_percentage": "0.96",
+        "neg_pos_ratio": 22.51497005988024
+    },
+    "test": {
+        "pos_count": 42,
+        "neg_count": 940,
+        "pos_percentage": "0.04",
+        "neg_percentage": "0.96",
+        "neg_pos_ratio": 22.38095238095238
+    }
+}
+[2024-03-10 15:20:04] [INFO] - fold 0: scale data
+[2024-03-10 15:20:04] [INFO] - fold 0: save train and test data
+[2024-03-10 15:20:04] [INFO] - 
+
+Fold 1:
+Train / Test data frequencies
+
+{
+    "train": {
+        "pos_count": 167,
+        "neg_count": 3760,
+        "pos_percentage": "0.04",
+        "neg_percentage": "0.96",
+        "neg_pos_ratio": 22.51497005988024
+    },
+    "test": {
+        "pos_count": 42,
+        "neg_count": 940,
+        "pos_percentage": "0.04",
+        "neg_percentage": "0.96",
+        "neg_pos_ratio": 22.38095238095238
+    }
+}
+[2024-03-10 15:20:04] [INFO] - fold 1: scale data
+[2024-03-10 15:20:04] [INFO] - fold 1: save train and test data
+[2024-03-10 15:20:04] [INFO] - 
+
+Fold 2:
+Train / Test data frequencies
+
+{
+    "train": {
+        "pos_count": 167,
+        "neg_count": 3760,
+        "pos_percentage": "0.04",
+        "neg_percentage": "0.96",
+        "neg_pos_ratio": 22.51497005988024
+    },
+    "test": {
+        "pos_count": 42,
+        "neg_count": 940,
+        "pos_percentage": "0.04",
+        "neg_percentage": "0.96",
+        "neg_pos_ratio": 22.38095238095238
+    }
+}
+[2024-03-10 15:20:04] [INFO] - fold 2: scale data
+[2024-03-10 15:20:04] [INFO] - fold 2: save train and test data
+[2024-03-10 15:20:04] [INFO] - 
+
+Fold 3:
+Train / Test data frequencies
+
+{
+    "train": {
+        "pos_count": 167,
+        "neg_count": 3760,
+        "pos_percentage": "0.04",
+        "neg_percentage": "0.96",
+        "neg_pos_ratio": 22.51497005988024
+    },
+    "test": {
+        "pos_count": 42,
+        "neg_count": 940,
+        "pos_percentage": "0.04",
+        "neg_percentage": "0.96",
+        "neg_pos_ratio": 22.38095238095238
+    }
+}
+[2024-03-10 15:20:04] [INFO] - fold 3: scale data
+[2024-03-10 15:20:04] [INFO] - fold 3: save train and test data
+[2024-03-10 15:20:04] [INFO] - 
+
+Fold 4:
+Train / Test data frequencies
+
+{
+    "train": {
+        "pos_count": 168,
+        "neg_count": 3760,
+        "pos_percentage": "0.04",
+        "neg_percentage": "0.96",
+        "neg_pos_ratio": 22.38095238095238
+    },
+    "test": {
+        "pos_count": 41,
+        "neg_count": 940,
+        "pos_percentage": "0.04",
+        "neg_percentage": "0.96",
+        "neg_pos_ratio": 22.926829268292682
+    }
+}
+[2024-03-10 15:20:04] [INFO] - fold 4: scale data
+[2024-03-10 15:20:04] [INFO] - fold 4: save train and test data
